@@ -1,0 +1,207 @@
+/* ======map image common elements=========== */
+
+#location_links, #footer_links, #state_links, #nav_links {
+position: relative;
+width: 100%;
+padding: 0;
+}
+
+#footer_links li, #location_links li, #state_links li, #nav_links li {
+display: block;
+position: absolute;
+list-style: none;
+margin: 0;
+padding: 0;
+z-index: 250;
+
+}
+
+#footer_links a, #location_links a, #state_links a, #nav_links a{
+display: block;
+text-decoration: none;
+cursor: pointer;
+z-index: 300;
+}
+
+/* ======menu image and links map=========== */
+
+#nav_links {
+height: 36px;
+width: 475px;
+background: url(../images/menu_home.jpg) no-repeat;
+border: none;
+top: -38px;
+left: 249px;
+}
+
+#nav_links a {
+height: 36px;
+width: 100px;
+}
+
+#nav_home { left: 0px; top: 0px;}
+#nav_reg { left: 135px; top: 0px;}
+#nav_reg a { width:150px;}
+#nav_locations { left: 350px; top: 0px;}
+
+/* ======locations image and links map=========== */
+
+#location_links{
+height: 884px;
+background: url(../images/choose_location.jpg) no-repeat;
+}
+
+#location_links a {
+height: 225px;
+width: 150px;
+}
+
+#clcarlsbad { left: 108px; top: 275px;}
+#clphoenix { left: 330px; top: 275px;}
+#cldallas { left: 550px; top: 275px;}
+#clsacramento { left: 760px; top: 275px;}
+#cldetroit { left: 190px; top: 600px;}
+#clatlanta { left: 440px; top: 600px;}
+#clcromwell { left: 670px; top: 600px;}
+
+/* ======footer image and links map=========== */
+#footer {
+width: 100%;
+}
+
+#footer_links{
+height: 140px;
+background: url(../images/footer.jpg) no-repeat;
+}
+
+#footer_links a {
+height: 60px;
+}
+
+#llnike { left: 20px; width: 250px;}
+#llstx { left: 280px; width: 90px;}
+#llgolfpride { left: 385px;  width: 140px;}
+#llsrixon { left: 515px; width: 130px;}
+#llcallaway { left: 675px; width: 120px;}
+#llodyssey { left: 800px;  width: 200px;}
+
+#lloakley { left: 20px; top: 65px; width: 130px;}
+#llfourteen { left: 160px; top: 65px; width: 145px;}
+#llmizuno { left: 320px; top: 65px; width: 108px;}
+#llecco { left: 440px; top: 65px; width: 125px;}
+#llping { left: 585px; top: 65px; width: 100px;}
+#llcleveland { left: 685px; top: 65px; width: 148px;}
+#llkentwool { left: 833px; top: 65px; width: 175px;}
+
+/* ======locations image and links map=========== */
+
+#location{
+position: relative;
+width: 100%;
+height: 884px;
+background: url(../images/locations.jpg) no-repeat;
+padding: 0;
+}
+
+#state_links a, #location a { 
+display: block;
+text-decoration: none;
+outline: none;
+cursor: pointer;
+height: 45px;
+}
+
+#stcarlsbad { left: 320px; top: 380px;}
+#stcarlsbad a { height: 55px;  width:38px;}
+
+#stphoenix { left: 360px; top: 390px;}
+#stphoenix a { height: 55px;  width:50px;}
+
+#stdallas { left: 420px; top: 405px;}
+#stdallas a { height: 90px;  width:90px;}
+
+#stsacramento { left: 300px; top: 330px;}
+#stsacramento a { height: 45px;  width:40px;}
+
+#stdetroit { left: 525px; top: 305px;}
+#stdetroit a { height: 50px;  width:50px;}
+
+#statlanta { left: 565px; top: 415px;}
+#statlanta a { height: 40px;  width:40px;}
+
+#stcromwell { left: 625px; top: 330px;}
+#stcromwell a { height: 30px;  width:30px;}
+
+#reserve { 
+	position: relative;
+	width: 257px;
+	top:  56px;
+	left: 530px;
+}
+
+#loc_hover_img {
+    position:relative;
+    z-index: 100;
+    display: none;
+}
+
+#state_hover_img {
+    position:relative;
+    z-index: 99;
+    display: none;
+}
+
+#state_hover_tag {
+    position:relative;
+    z-index: 101;
+    display: none;
+}
+
+#deets_loc {
+    position:relative;
+	top: 557px; 
+	left: 63.5px;
+}
+
+#deets_reg {
+    position:relative;
+	top: 175px; 
+	left: 63.5px;
+}
+
+#venue_info {
+	width: 220px;
+	height:200px;
+	float: left;
+}
+
+#venue_info h2 {
+	font-size: 17.3px;
+	letter-spacing: 0.01em;
+}
+
+#venue_info div {
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 28px;
+	letter-spacing: 1px;
+}
+
+#venue_details {
+	width:  300px;
+	height: 300px;
+	overflow: auto;
+	float: left;
+}
+
+#venue_details h2 {
+	font-size: 17.3px;
+	letter-spacing: 0.02em;
+}
+
+#venue_details div {
+	font-size: 12px;
+	line-height: 25px;
+	letter-spacing: 0.05em;
+}
+

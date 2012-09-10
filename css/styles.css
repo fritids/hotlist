@@ -1,0 +1,256 @@
+body {
+	background: #FFFFFF;
+	color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+}
+
+div {
+	/* you know, for the kids */
+	/*  border: 1px solid blue; */
+}
+
+.button {
+	width: 70px;
+	float: left;
+	background: red;
+}
+
+.field {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.radio_field {
+	float: left;
+}
+
+#conf_loc {
+	position: relative;
+	font-weight: bold;
+	font-size: 20px;
+	top: 219.5px;
+	left: 356px;
+	width: 300px;
+}
+
+#page {
+    width: 1024px;
+    margin: 0px auto;
+    z-index:1;
+}
+
+#header_bar {
+	display: inline-block;
+	height: 184px;
+}
+
+#main_logo{
+	height: 184px;
+	display: inline;
+	float: left;
+}
+
+#demo_txt{
+	position: relative;
+	top: 45px;
+	left: -341px;
+}
+
+#main_menu {
+	width: 500px;
+	position: relative;
+	top: -30px;
+	left: 250px;
+}
+
+#main_menu a {
+	padding-right: 70px
+}
+#share {
+	float:right;
+	margin-top: 8px;
+}
+
+#lights {
+	float:right;
+	margin-top: 3px;
+}
+
+#middle {
+}
+
+#content {
+	z-index:200;
+}
+
+#home{
+	height: 884px;
+	background: url(../images/home.jpg) no-repeat;
+}
+
+#home_reg_link {
+	position: relative;
+	display: block;
+	text-decoration: none;
+	cursor: pointer;
+    height: 45px;
+    width: 256px;
+	top: 240px;
+	left: 510px;
+}
+
+#home_loc_link {
+	position: relative;
+	display: block;
+	text-decoration: none;
+	cursor: pointer;
+	height: 22px;
+    width: 325px;
+	top: 265px;
+	left: 510px;
+}
+
+#slides {
+	position:relative;
+	top:417px;
+	left:75px;
+	height: 355px;
+	width: 470px;
+}
+
+#slides a {
+	position:absolute;
+	width:18px;
+	height:30px;
+	top: 338px;
+	cursor:pointer;
+}
+
+#slide {
+	display: block;
+	height: 328px;
+	width: 470px;
+}
+
+#slide_ctl {
+	display: block;
+	height: 37px;
+	width: 470px;
+}
+
+#slide_link_1 {
+	display: block;
+	left: 9px;
+	width:18px;
+	height:30px;
+}
+
+#slide_link_2 {
+	display: block;
+	left: 29px;
+	width:18px;
+	height:30px;
+}
+
+#slide_link_3 {
+	display: block;
+	left: 50px;
+	width:18px;
+	height:30px;
+}
+
+#slide_link_4 {
+	display: block;
+	left: 70px;
+	width:18px;
+	height:30px;
+}
+
+
+#view_winners {
+	display: block;
+	position:relative;
+	top: 382px;
+	left: 560px;
+	width: 180px;
+}
+
+#find_loc {
+	display: block;
+	position:relative;
+	top: 396px;
+	left: 750px;
+	width: 190px;
+}
+
+#pbr_div {
+	position: relative;
+	height: 30px
+	width: 190px;
+}
+
+#pbr_div a {
+	position:absolute ;
+	top: 158px;
+	left: 20px;
+	height: 25px;
+	width: 190px;
+	cursor: pointer;
+}
+
+#g_map {
+    outline: 1px solid black;
+    height: 144px;
+    width: 196px;
+	overflow: hidden;
+	float: left;
+	margin-left: 55px;
+	margin-top: 20px;
+}
+
+#g_dir a{
+	position:relative;
+    display: block;
+    height: 30px;
+    width: 120px;
+	float: left;
+	top: 175px;
+	left: -195px;
+}
+
+#share_this {
+	background: url(../images/twits.png)  no-repeat;
+	position:relative;
+	width:119px;
+	height: 22px;
+	top:  -31px;
+	left: 861px;
+	float: left;
+}
+
+#share_this a {
+	float: left;
+	position:relative;
+	display: block;
+	width: 22px;
+	height: 22px;
+	margin-right: 5px;
+	left: 41px;
+}
+
+#choose_hover_img {
+	position:relative;
+	z-index: 1;
+	display: none;
+}
+
+#space_h15 {
+	height: 15px;
+}

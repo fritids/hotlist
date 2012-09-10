@@ -1,0 +1,164 @@
+#temp_links {
+	position:absolute; 
+	top:0;
+}
+
+
+#registration_container {
+	position: relative;
+	width: 100%;
+	height: 884px;
+	background: url(../images/registration.jpg) no-repeat;
+	padding: 0;
+}
+
+#registration_form {
+    display: inline-block;
+    position: absolute;
+    top: 479px;
+    left: 65px;
+}
+
+#registration_form input{
+    color: #000000;
+	margin-top: 5px;
+	margin-right: 11px;
+	border: none;
+}
+
+#reg_fname {
+	width: 165px;
+	height: 21px
+}
+#reg_lname {
+	width: 165px;
+	height: 21px
+}
+
+#reg_email {
+	width: 251px;
+	height: 21px
+}
+
+#reg_zip {
+	width: 165px;
+	height: 21px
+}
+
+#reg_hcap {
+	position:absolute;
+	top: 61px;
+	width: 50px;
+	height: 21px
+}
+
+#reg_rounds {
+	position:absolute;
+	top: 68px;
+	left: 290px;
+}
+
+#reg_rounds input{
+	position: absolute;
+}
+
+#r2 { left:79px}
+#r3 { left:151px}
+#r4 { left:226px}
+
+#reg_vaca {
+	position:absolute;
+	top: 130px;
+	left:2px;
+}
+
+#reg_vaca input{
+	position: absolute;
+}
+
+#v2 { left:58px}
+#v3 { left:118px}
+#v4 { left:178px}
+#v5 { left:299px}
+
+#reg_rcv_email {
+	position:absolute;
+	top:174px;
+	left:2px;
+}
+
+#reg_rcv_offer {
+	position:absolute;
+	top:222px;
+	left:2px;
+}
+
+#bttn_reg_submit {
+	display: inline;
+	position:relative;
+	background: none;
+height: 75px;
+	width: 260px;
+	top:240px;
+	left:1px;
+	z-index: 100;
+	cursor: pointer;
+}
+
+#reg_event_info {
+	position:absolute;
+	top: 338px;
+}
+
+#show_reg td{
+	border: 1px solid black;
+	width: 100px;
+}
+
+#reg_ver {
+	width: 100%;
+	height: 884px;
+	background: url('../images/reg_confirmed.jpg') no-repeat;
+	padding: 0;
+}
+
+#select_diff_link {
+	display: block;
+	height: 25px;
+	width: 180px;
+	cursor: pointer;
+	position:relative;
+	top: 160px;
+	left: 800px;
+}
+
+#rewards_link {
+	display: block;
+	height: 25px;
+	width: 232px;
+	cursor: pointer;
+	position:relative;
+	top: 483px;
+	left: 377px;
+}
+
+#deets_conf {
+	position: relative;
+ 	top: 200px;
+	left: -283px;
+}
+
+#reg_error {
+	position: absolute;
+	top: -35px;
+left: 0px;
+	width: 800px;
+}
+
+#reg_error label {
+	float: left;
+}
+
+label.error { 
+	color: red; 
+}

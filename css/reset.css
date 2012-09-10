@@ -1,0 +1,73 @@
+html,body,div,form,input,textarea,blockquote { margin: 0; padding: 0; }
+form { display:block; }
+h1      { margin-top: 0; padding-top: 0; }
+th, td  { margin: 0; padding: 0; }
+ul, ol  { margin: 0; padding: 0 0 0 2em; }
+img     { border: 0; }
+table   { border-collapse: collapse; border-spacing: 0; }
+em, .italic      { font-style: italic; }
+strong, .bold  { font-weight: bold; }
+.normal { font-weight:normal; }
+
+.float_left     { float: left; }
+.float_right    { float: right; }
+.clear          { clear: both; }
+.clear_none     { clear: none; }
+.center         { text-align: center; }
+.right          { text-align: right; }
+.left           { text-align: left; }
+.centered       { margin: 0 auto; }
+.block          { display: block; }
+.inline         { display: inline; }
+.top            { vertical-align: top; }
+.middle         { vertical-align: middle; }
+.nowrap         { white-space: nowrap; }
+.underline      { text-decoration:underline; }
+
+.uppercase      { text-transform: uppercase; }
+.lowercase      { text-transform: lowercase; }
+.no_transform   { text-transform: none; }
+
+.hidden         { display:none; }
+.relative       { position:relative; }
+.absolute       { position:absolute; }
+
+.clickable      { cursor:pointer; cursor:hand; }
+
+.margin_bottom  { margin-bottom:1em; }
+.margin_top     { margin-top:1em; }
+.margin_left    { margin-left:1em; }
+.margin_right   { margin-right:1em; }
+.margin         { margin:1em; }
+
+.small_margin_bottom { margin-bottom:5px; }
+.small_margin_top    { margin-top:5px; }
+.small_margin_left   { margin-left:5px; }
+.small_margin_right  { margin-right:5px; }
+.small_margin        { margin:5px; }
+
+.large_margin_bottom { margin-bottom:2em; }
+.large_margin_top    { margin-top:2em; }
+.large_margin_left   { margin-left:2em; }
+.large_margin_right  { margin-right:2em; }
+.large_margin        { margin:2em; }
+
+.padding_bottom { padding-bottom:1em; }
+.padding_top    { padding-top:1em; }
+.padding_left   { padding-left:1em; }
+.padding_right  { padding-right:1em; }
+.padding        { padding:1em; }
+
+.small_padding_bottom { padding-bottom:5px; }
+.small_padding_top    { padding-top:5px; }
+.small_padding_left   { padding-left:5px; }
+.small_padding_right  { padding-right:5px; }
+.small_padding        { padding:5px; }
+
+.large_padding_bottom { padding-bottom:2em; }
+.large_padding_top    { padding-top:2em; }
+.large_padding_left   { padding-left:2em; }
+.large_padding_right  { padding-right:2em; }
+.large_padding        { padding:2em; }
+
+.no_bullets, .no_bullets ul { list-style:none; }

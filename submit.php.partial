@@ -1,0 +1,34 @@
+<?php
+include 'Zend/Mail.php';
+include 'classes/registration.php';
+
+$reg = new Registration();
+
+$rslt = $reg.save($_POST);
+
+if( empty($rslt['err']) ){
+$city = ucfirst($rslt['rows'loc['city']);
+$state = strtoupper($loc['state']);
+$loc_string = $city . ',' . $state;
+$subject = '2012 GOLF DIGEST HOT LIST TOUR registration confirmation';
+$fromName = 'Golf Digest';
+$message= <<<EMAIL
+REGISTRATION CONFIRMED:
+
+Thank you for reserving a spot at the 2012 GOLF DIGEST HOT LIST TOUR.
+
+We have added you to the guest list in $loc_string
+EMAIL;
+
+$mail = new Zend_Mail();
+$mail->setSubject($subject);
+$mail->setFrom($fromEmail, $fromName);
+$mail->addTo('scottrenick@dolphinmicro.com');
+$mail->addTo('test@dolphinmicro.com');
+$mail->setBodyText($message);
+$mail->send();
+header( "Location: registration_verified.php?loc=$loc_string" );
+} else {
+    header( "Location: registration_verified.php?error=$err" );
+}
+

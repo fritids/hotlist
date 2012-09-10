@@ -1,0 +1,952 @@
+first_name,last_name,email,zip,handicap,rounds,vacations,rcv_emails,rcv_offers,date_created,city,event_date
+Rocco,Pizza,rocco.pizza@gmail.com,30075,13,2-3,1,1,1,2012-02-08 07:55:25,Atlanta,May 19-20, 2012
+Nathan,Austhof,nathan.austhof@gmail.com,30188,30,2-3,1,1,1,2012-02-08 08:11:29,Atlanta,May 19-20, 2012
+Mark,Daugherty,mark.daugherty@mkcorp.com,75052,~8,2-3,1,NULL,NULL,2012-02-08 17:51:52,Dallas,April 14-15, 2012
+Yvonne,Guerra,sgvaa@sgtgrit.com,91803,NULL,2-3,NULL,NULL,NULL,2012-02-08 18:47:25,Carlsbad,March 10-11, 2012
+Money,Qa,moneyqa@yahoo.com,10036,3,4-5,2,1,1,2012-02-08 20:20:24,Carlsbad,March 10-11, 2012
+Money,Qa,moneyqa@yahoo.com,10036,3,4-5,NULL,NULL,NULL,2012-02-08 20:30:21,Dallas,April 14-15, 2012
+Money,Qa,moneyqa@yahoo.com,10036,4,6-7,3,1,1,2012-02-08 20:31:37,Sacramento,April 27-29, 2012
+money,qa,moneyqa@yahoo.com,10036,3,2-3,2,NULL,NULL,2012-02-08 20:38:46,Phoenix,March 24-25, 2012
+d,dfd,moneyqa@yahoo.com,10036,7,4-5,2,1,1,2012-02-08 20:41:04,Detroit,May 5-6, 2012
+Moneh,qa,moneyqa@yahoo.com,10036,3,2-3,NULL,NULL,NULL,2012-02-08 20:42:00,Atlanta,May 19-20, 2012
+xzfd,fdd,moneyqa@yahoo.com,10036,5,4-5,2,1,1,2012-02-08 20:51:35,Cromwell,Tuesday, June 19, 2012
+moneh,qa,moneyqa@yahoo.com,10036,7,2-3,3,1,1,2012-02-08 20:52:09,Cromwell,Tuesday, June 19, 2012
+money,qa,moneyqa@yahoo.com,12222,4,2-3,3,1,1,2012-02-08 21:31:54,Carlsbad,March 10-11, 2012
+Jim,Logan,Jlogan72@cox.net,85396,4,4-5,NULL,NULL,NULL,2012-02-08 22:42:07,Phoenix,March 24-25, 2012
+Pablo,Cruz,pablopdiddy@gmail.com,91306,19,6-7,NULL,NULL,1,2012-02-09 04:54:57,Carlsbad,March 10-11, 2012
+Kevin,Sancibrian,Kevins@dimensiongrp.com,76244,20,4-5,NULL,1,1,2012-02-09 22:41:54,Dallas,April 14-15, 2012
+mike,oxley,moxley@dimensiongrp.com,75231,8,2-3,2,NULL,NULL,2012-02-10 09:40:00,Dallas,April 14-15, 2012
+scott,mitchell,scott.mitchell451@gmail.com,75006,30,2-3,NULL,1,1,2012-02-10 10:55:08,Dallas,April 14-15, 2012
+Michael ,Pearson,michael_pearson@rocketmail.com,90277,9,4-5,3,NULL,NULL,2012-02-10 11:32:34,Carlsbad,March 10-11, 2012
+Roger,Gillespie,roger@venturecourtproductions.com,85138,NULL,NULL,NULL,1,1,2012-02-10 15:31:48,Phoenix,March 24-25, 2012
+Robert,Anderson,boba@grandecom.net,75034,4,4-5,2,1,1,2012-02-11 08:30:13,Dallas,April 14-15, 2012
+Robert,Kurahashi,rob.kurahashi@verizon.net,75093,6,8 or more,2,NULL,NULL,2012-02-11 09:48:08,Dallas,April 14-15, 2012
+Brian,Pack,bpack01@gmail.com,75024,14,6-7,2,NULL,NULL,2012-02-11 11:28:41,Dallas,April 14-15, 2012
+Richard,Santa Cruz,Rick.santacruz@epicplumbingaz.com,85213,12,4-5,4,1,1,2012-02-11 12:05:30,Phoenix,March 24-25, 2012
+WENCESLAO,ZAVALA,wpzavala@yahoo.com,91914,15,8 or more,2,1,1,2012-02-12 13:42:58,Carlsbad,March 10-11, 2012
+Boyd,Munroe,bmunroe79@yahoo.ca,85213,11,4-5,2,1,1,2012-02-12 16:40:33,Phoenix,March 24-25, 2012
+Scott,Elderworth,Elderworth@gmail.com,85085,18,2-3,NULL,NULL,NULL,2012-02-13 00:01:31,Phoenix,March 24-25, 2012
+Lincoln,Ballard,LincolnBallard@gmail.com,92103,9,2-3,NULL,NULL,1,2012-02-13 11:39:40,Carlsbad,March 10-11, 2012
+Test,Testman,test@email.com,10036,2,2-3,NULL,NULL,NULL,2012-02-14 09:55:21,Sacramento,April 27-29, 2012
+Julian,Pavao,jpavao24@yahoo.com,95818,29,4-5,NULL,NULL,NULL,2012-02-15 02:51:37,Sacramento,April 27-29, 2012
+elizabeth,west,parrot418@yahoo.com,49346,30,4-5,NULL,NULL,1,2012-02-15 14:41:44,Detroit,May 5-6, 2012
+M,Jimmink,imotay@yahoo.com,92056,16,8 or more,1,1,1,2012-02-16 11:09:10,Carlsbad,March 10-11, 2012
+Blake,Clinton,blake.clinton@gmail.com,6001,12,6-7,3,1,NULL,2012-02-16 20:31:54,Cromwell,Tuesday, June 19, 2012
+russ,aragon,find_your_game@msn.com,81611,NULL,8 or more,1,NULL,NULL,2012-02-16 21:22:03,Carlsbad,March 10-11, 2012
+tricia,aragon,tsol5850@msn.com,81611,30,6-7,1,NULL,NULL,2012-02-16 21:25:03,Carlsbad,March 10-11, 2012
+david,dost,tpb1101@gmail.com,75028,NULL,8 or more,NULL,1,NULL,2012-02-17 00:37:42,Dallas,April 14-15, 2012
+Andrew,Nguyen,andrew.lekhoa.nguyen@gmail.com,75206,30,2-3,NULL,NULL,NULL,2012-02-17 00:58:39,Dallas,April 14-15, 2012
+Eric,Joppa,Eric@ericjoppa.com,95624,24,4-5,NULL,NULL,NULL,2012-02-17 11:52:35,Sacramento,April 27-29, 2012
+Darrell,McClendon,Darrell.mcclendon@gmail.com,91913,13,2-3,1,1,1,2012-02-19 12:17:14,Carlsbad,March 10-11, 2012
+Darrell,McClendon,Darrell.mcclendon@gmail.com,91913,13,2-3,1,1,1,2012-02-19 12:51:08,Carlsbad,March 10-11, 2012
+Ray,Tse,Skjm22@yahoo.com,95014,12,2-3,2,NULL,NULL,2012-02-20 04:09:22,Sacramento,April 27-29, 2012
+Lane,Liroff,Ljliroff@aol.com,94306,12,8 or more,2,1,NULL,2012-02-20 15:50:46,Sacramento,April 27-29, 2012
+Trey,Durham,durhamtrey@sbcglobal.net,75069,7,8 or more,4,1,1,2012-02-21 07:33:24,Dallas,April 14-15, 2012
+Jason,Acord,1833acord@gmail.com,28443,16,4-5,1,NULL,NULL,2012-02-21 13:20:41,Carlsbad,March 10-11, 2012
+Adam,Mccumber,adam.mccumber@usmc.mil,28443,20,2-3,NULL,NULL,NULL,2012-02-21 13:22:13,Carlsbad,March 10-11, 2012
+Christine,Shannon,christine.shannon@golfdigest.com,90064,NULL,2-3,NULL,NULL,NULL,2012-02-21 14:23:21,Cromwell,Tuesday, June 19, 2012
+Damon,Dixon,treytrey@comcast.net,48224,19,8 or more,2,1,1,2012-02-21 15:16:54,Detroit,May 5-6, 2012
+Nathan,Balicki,Mustical81@gmail.com,92109,9,NULL,NULL,1,1,2012-02-21 19:19:09,Carlsbad,March 10-11, 2012
+paul,finch,corsmith@mwt.net,54632,10,8 or more,1,1,1,2012-02-22 16:15:07,Phoenix,March 24-25, 2012
+David,Neeley,Drneeley@bellsouth.net,30236,11,NULL,NULL,NULL,NULL,2012-02-24 00:25:47,Atlanta,May 19-20, 2012
+Doug,Johnston,golfindoug@att.net,89511,NULL,6-7,4,NULL,NULL,2012-02-24 09:10:09,Sacramento,April 27-29, 2012
+Gary,Fields,Gary_fields_1999@yahoo.com,30080,12,8 or more,2,1,1,2012-02-24 18:40:48,Atlanta,May 19-20, 2012
+Kirk ,Duda,sportingclay12345@wowway.com,48188,17,8 or more,NULL,1,1,2012-02-25 09:39:44,Detroit,May 5-6, 2012
+Branden,Allen,Branden.allen88@gmail.com,30067,19,4-5,NULL,NULL,NULL,2012-02-26 23:34:29,Atlanta,May 19-20, 2012
+yvonne,avery,yvonneolivia40@aol.com,34951,30,NULL,NULL,1,1,2012-02-27 14:12:03,Atlanta,May 19-20, 2012
+Robert,Nance,Morehouse83@gmail.com,29118,22,4-5,3,1,1,2012-02-28 21:04:37,Atlanta,May 19-20, 2012
+Tron,Bennett,nortb83@gmail.com,30324,9,2-3,NULL,NULL,NULL,2012-02-29 12:00:09,Atlanta,May 19-20, 2012
+Russell,Harder,russharder@deloitte.com,90005,8.,2-3,1,NULL,NULL,2012-02-29 22:47:01,Carlsbad,March 10-11, 2012
+Cody,McDonald,Cavedman26@gmail.com,94901,20,4-5,NULL,NULL,NULL,2012-03-01 01:50:49,Sacramento,April 27-29, 2012
+Nick,Bailey,Nickrobertbailey@gmail.com,94901,NULL,2-3,NULL,NULL,NULL,2012-03-01 01:53:07,Sacramento,April 27-29, 2012
+John,Damasco,js.damasco@yahoo.com,85383,13,4-5,1,NULL,1,2012-03-01 10:28:26,Phoenix,March 24-25, 2012
+Peter,Harris,pharris@psrs.com,92011,7,6-7,2,NULL,NULL,2012-03-01 16:02:09,Carlsbad,March 10-11, 2012
+David,Huber,Dhuber@financeexpress.com,92679,8,8 or more,4,1,1,2012-03-01 16:02:58,Carlsbad,March 10-11, 2012
+BRENDA,WONG,bwong@ucsd.edu,92126,NULL,8 or more,NULL,1,1,2012-03-01 16:06:01,Carlsbad,March 10-11, 2012
+JOHN,PALMER,jpalmer@ucsd.edu,92126,NULL,8 or more,NULL,1,1,2012-03-01 16:06:35,Carlsbad,March 10-11, 2012
+Daniel,Cano Jr,dcanojr24@yahoo.com,92407,16,8 or more,NULL,1,1,2012-03-01 16:09:23,Carlsbad,March 10-11, 2012
+john,davis,davisj@metro.net,90012,6,4-5,3,1,1,2012-03-01 16:10:56,Carlsbad,March 10-11, 2012
+Kim,Cruz,chinkerson9@yahoo.com,90405,7,8 or more,1,1,1,2012-03-01 16:11:09,Carlsbad,March 10-11, 2012
+Seth,Goldman,Sddolfan@aol.com,92130,20,8 or more,2,NULL,NULL,2012-03-01 16:12:10,Carlsbad,March 10-11, 2012
+Mark,Ratoza,mratoza@gmail.com,92868,12,2-3,NULL,NULL,NULL,2012-03-01 16:13:45,Carlsbad,March 10-11, 2012
+Omer,Vaughn,o@seebeyonde.com,90212,NULL,6-7,4,1,1,2012-03-01 16:25:55,Carlsbad,March 10-11, 2012
+Fred,Haton,fredhaton@sbcglobal.net,92673,21,2-3,NULL,1,1,2012-03-01 16:29:50,Carlsbad,March 10-11, 2012
+Adam,French,racqtballfiend@yahoo.com,92026,38,2-3,NULL,NULL,NULL,2012-03-01 16:32:01,Carlsbad,March 10-11, 2012
+Thomas,Foley,thomas.foley@nfl.com,90277,18,6-7,2,1,1,2012-03-01 16:38:29,Carlsbad,March 10-11, 2012
+AJ,Spagnolo,aspagnolo@roadrunner.com,92009,15,8 or more,NULL,NULL,NULL,2012-03-01 16:39:39,Carlsbad,March 10-11, 2012
+Jeff,Person,jeff.person@gmail.com,92109,7,4-5,3,1,1,2012-03-01 16:43:18,Carlsbad,March 10-11, 2012
+David,Esbeck,David.esbeck@gmail.com,92130,9.,8 or more,4,1,1,2012-03-01 16:58:32,Carlsbad,March 10-11, 2012
+Steven,Ferreira,steven.e.ferreira@gmail.com,92116,22,8 or more,NULL,1,1,2012-03-01 17:00:17,Carlsbad,March 10-11, 2012
+jeff,Dixon,yad8654@yahoo.com,92054,12,4-5,1,NULL,NULL,2012-03-01 17:05:46,Carlsbad,March 10-11, 2012
+william,chou,w67c@yahoo.com,91007,15,4-5,NULL,NULL,NULL,2012-03-01 17:09:28,Carlsbad,March 10-11, 2012
+James,Im,heuiim@yahoo.com,90057,20,2-3,NULL,NULL,NULL,2012-03-01 17:11:40,Carlsbad,March 10-11, 2012
+Hector A,Caballero,hacv64@yahoo.com,92014,4,2-3,2,NULL,1,2012-03-01 17:14:08,Carlsbad,March 10-11, 2012
+Mark,McD,socalmm8@gmail.com,92117,15,6-7,2,NULL,NULL,2012-03-01 17:15:26,Carlsbad,March 10-11, 2012
+Dan,Pearlman,danpearlman@thepearlmangroup.com,90402,13,4-5,1,NULL,NULL,2012-03-01 17:25:23,Carlsbad,March 10-11, 2012
+Richard,Kreisberg,Drkre4700@aol.com,92091,10,8 or more,2,NULL,NULL,2012-03-01 17:44:36,Carlsbad,March 10-11, 2012
+Kyle,Schramer,schraz22@gmail.com,92104,8,8 or more,NULL,NULL,NULL,2012-03-01 17:46:35,Carlsbad,March 10-11, 2012
+robert,edie,robert_edie@yahoo.com,92376,6.,8 or more,2,1,1,2012-03-01 17:50:51,Carlsbad,March 10-11, 2012
+Mike,Smith,sangvb@aol.com,92399,14,4-5,NULL,NULL,NULL,2012-03-01 18:26:01,Carlsbad,March 10-11, 2012
+Jimmie,Johnson,winco@cox.net,92630,13,4-5,2,1,1,2012-03-01 19:14:05,Carlsbad,March 10-11, 2012
+Gary,Waterman,gwgwatermn@gmail.com,92078,19,8 or more,NULL,NULL,1,2012-03-01 19:33:40,Carlsbad,March 10-11, 2012
+Michael,Chapman,mchapi@cox.net,92629,10,8 or more,1,NULL,1,2012-03-01 19:41:30,Carlsbad,March 10-11, 2012
+oliver,aragon,ocaragon@gmail.com,91913,15,8 or more,NULL,1,1,2012-03-01 19:48:56,Carlsbad,March 10-11, 2012
+Charles,Stevens,ccs313@gmail.com,92009,7,6-7,4,NULL,NULL,2012-03-01 19:56:21,Carlsbad,March 10-11, 2012
+Daniel,Teemsma,dteemsma@yahoo.com,92120,18,2-3,1,1,1,2012-03-01 20:01:51,Carlsbad,March 10-11, 2012
+Ken,Lee,klee@lblarch.com,90094,11,4-5,2,NULL,NULL,2012-03-01 20:11:17,Carlsbad,March 10-11, 2012
+joan,Higgins,joan.higgins3@yahoo.com,91741,NULL,8 or more,2,NULL,NULL,2012-03-01 20:15:41,Carlsbad,March 10-11, 2012
+Alan,Cruthers,Acruthers@aol.com,92585,15,2-3,1,1,1,2012-03-01 20:20:58,Carlsbad,March 10-11, 2012
+gary,jackson,jackson@waterfountains.com,92307,5,8 or more,2,1,1,2012-03-01 21:26:48,Carlsbad,March 10-11, 2012
+Dennis,Grenier,promason53@yahoo.com,92122,11,2-3,NULL,1,1,2012-03-01 21:54:18,Carlsbad,March 10-11, 2012
+Phillip,Roberts,phillip.g.roberts@gmail.com,92058,21,2-3,NULL,NULL,NULL,2012-03-01 23:04:06,Carlsbad,March 10-11, 2012
+Daniel,Brasov,daniel@aballc.com,90240,90,2-3,NULL,1,1,2012-03-01 23:08:33,Carlsbad,March 10-11, 2012
+David,Garcia,dgfalcon@yahoo.com,92679,12,4-5,NULL,NULL,1,2012-03-01 23:38:19,Carlsbad,March 10-11, 2012
+Steve,Erickson,erickson_sj@msn.com,92592,13,4-5,3,NULL,NULL,2012-03-02 00:10:12,Carlsbad,March 10-11, 2012
+Robert,Salazar,cantdrawtheball@yahoo.com,90815,14,4-5,NULL,1,1,2012-03-02 00:15:13,Carlsbad,March 10-11, 2012
+Hanibal,CHAVEZ,golfnutx14@yahoo.com,91791,17,2-3,1,NULL,1,2012-03-02 00:17:16,Carlsbad,March 10-11, 2012
+Paul,Leung,ptleungusa@yahoo.com,92128,29,8 or more,NULL,NULL,1,2012-03-02 02:08:30,Carlsbad,March 10-11, 2012
+Gaddis,Don,donsterblackbird@verizon.net,93536,7.,8 or more,1,NULL,1,2012-03-02 03:44:46,Carlsbad,March 10-11, 2012
+romandi,thomas,twromandi@gmail.com,91342,11,4-5,1,NULL,1,2012-03-02 05:10:22,Carlsbad,March 10-11, 2012
+Alan,Fuller,afullerbiz@gmail.com,92660,4,8 or more,2,NULL,1,2012-03-02 09:25:01,Carlsbad,March 10-11, 2012
+Ken,Mohr,kmohr@ots-sdchc.org,92118,13,8 or more,3,NULL,NULL,2012-03-02 10:24:29,Carlsbad,March 10-11, 2012
+Randy,Heavner,pheavner@charter.net,92545,10,6-7,1,1,1,2012-03-02 10:41:31,Carlsbad,March 10-11, 2012
+Spence,Castre,max_capital@hotmail.com,92101,7,6-7,2,NULL,1,2012-03-02 11:25:04,Carlsbad,March 10-11, 2012
+Randy,Bixenman,bixdog@aol.com,91016,21,2-3,NULL,NULL,NULL,2012-03-02 11:57:18,Carlsbad,March 10-11, 2012
+Jr ,Stone,finisheswt@gmail.com,92111,NULL,8 or more,1,NULL,1,2012-03-02 12:59:11,Carlsbad,March 10-11, 2012
+Guest,Stone,finisheswt@gmail.com,92111,12,6-7,NULL,NULL,NULL,2012-03-02 13:02:38,Carlsbad,March 10-11, 2012
+Bill,Bevans,angrybillb@gmail.com,91304,23,6-7,3,1,1,2012-03-02 19:49:35,Carlsbad,March 10-11, 2012
+Chad,Lochmandy,lochmandy@aol.com,46528,20,NULL,1,1,1,2012-03-03 06:27:59,Detroit,May 5-6, 2012
+Shane,Reese,Supraman007@gmail.com,92126,15,8 or more,1,1,1,2012-03-03 07:27:18,Carlsbad,March 10-11, 2012
+Juan,Planas,c1planas@gmail.com,90680,NULL,8 or more,NULL,NULL,1,2012-03-03 11:11:31,Carlsbad,March 10-11, 2012
+Rodney,Parker,rodney.d.parker@gmail.com,30188,19,2-3,1,NULL,NULL,2012-03-03 11:47:44,Atlanta,May 19-20, 2012
+Lawrence,Luikart,luikart@sbcglobal.net,92026,13,6-7,NULL,1,NULL,2012-03-03 12:31:52,Carlsbad,March 10-11, 2012
+sayeed,arastu,calmach@yahoo.com,91765,18,4-5,NULL,1,NULL,2012-03-03 12:53:11,Carlsbad,March 10-11, 2012
+Ruben,Chanes,perio_implantes@hotmail.com,91912,25,2-3,1,NULL,1,2012-03-03 13:07:37,Carlsbad,March 10-11, 2012
+Andrew,Akerlund,akerlund@verizon.net,90277,7,8 or more,1,NULL,1,2012-03-03 13:39:52,Carlsbad,March 10-11, 2012
+Brad,Davis,bdowntown@cox.net,92679,10,8 or more,3,NULL,NULL,2012-03-03 14:25:38,Carlsbad,March 10-11, 2012
+Carol,Porter,Carol.porter11@gmail.com,75067,7,4-5,4,1,1,2012-03-03 16:23:23,Dallas,April 14-15, 2012
+Terry,Mickla,Terry.mickla@verizon.net,75067,20,4-5,4,1,1,2012-03-03 16:24:44,Dallas,April 14-15, 2012
+Karen,King,Kkkingdo@aol.com,75182,18,4-5,4,1,1,2012-03-03 16:27:19,Dallas,April 14-15, 2012
+Byron,Matheson,Byron.matheson@gmail.com,31210,18,8 or more,1,1,1,2012-03-03 18:42:13,Atlanta,May 19-20, 2012
+Patrick,Trueblood,blood3313@hotmail.com,48462,7,8 or more,NULL,NULL,1,2012-03-03 20:23:17,Detroit,May 5-6, 2012
+Bruce,Gaynor,brucegaynor@windstream.net,31088,25,4-5,1,1,NULL,2012-03-03 22:24:12,Atlanta,May 19-20, 2012
+miguel,gutierrez,miguel.a.gutierrez@lmco.com,76244,15,4-5,1,NULL,NULL,2012-03-03 22:41:22,Dallas,April 14-15, 2012
+Kristi,Gilleo,silverkricket68@yahoo.com,76244,23,2-3,1,NULL,NULL,2012-03-03 22:42:39,Dallas,April 14-15, 2012
+Gregory,Burden,gburden37@yahoo.com,75050,20,2-3,NULL,NULL,NULL,2012-03-03 22:47:23,Dallas,April 14-15, 2012
+Rob,Thompson,rjt1957@gmail.com,92071,13,2-3,NULL,NULL,NULL,2012-03-04 00:07:28,Carlsbad,March 10-11, 2012
+Daniel,Underwood,dirtyd_daniel@yahoo.com,30720,15,2-3,NULL,NULL,NULL,2012-03-04 00:21:11,Atlanta,May 19-20, 2012
+Michael,D'Anna,micheleadanna@gmail.com,92054,16,2-3,NULL,NULL,NULL,2012-03-04 01:59:27,Carlsbad,March 10-11, 2012
+Guillermo,Ortiz,gortiz8944@student.palomar.edu,92027,15,8 or more,NULL,NULL,1,2012-03-04 02:23:46,Carlsbad,March 10-11, 2012
+Thomas ,Beavers,zathb@yahoo.com,48910,15,4-5,NULL,NULL,NULL,2012-03-04 05:44:46,Detroit,May 5-6, 2012
+Zachary ,Beavers,zathb@yahoo.com,48910,12,6-7,NULL,NULL,NULL,2012-03-04 05:46:49,Detroit,May 5-6, 2012
+Ben,Mikkola,Benjamin42282@yahoo.com,6256,15,4-5,1,1,1,2012-03-04 10:32:11,Cromwell,Tuesday, June 19, 2012
+Angel,Cosme,cosme017@yahoo.com,6851,14,8 or more,2,NULL,1,2012-03-04 10:56:34,Cromwell,Tuesday, June 19, 2012
+Matt,McCollough,mattmccollough@comcast.net,48309,NULL,8 or more,2,1,1,2012-03-04 11:09:17,Detroit,May 5-6, 2012
+Jake,Hajski,jhajski@yahoo.com,48003,25,4-5,1,NULL,NULL,2012-03-04 12:45:48,Detroit,May 5-6, 2012
+Mike,Nadrowski,mtnadrow@svsu.edu,48003,25,4-5,NULL,NULL,NULL,2012-03-04 13:10:13,Detroit,May 5-6, 2012
+joe,culbreth jr,joeculbrethjr@yahoo.com,28211,6,2-3,2,NULL,NULL,2012-03-04 13:24:00,Atlanta,May 19-20, 2012
+Jeff,Danielski,jjdanielski@charter.net,75137,10,8 or more,NULL,NULL,NULL,2012-03-04 15:33:26,Dallas,April 14-15, 2012
+Stan,Bishop,stanb102@aol.com,92037,15,2-3,2,NULL,NULL,2012-03-04 18:06:58,Carlsbad,March 10-11, 2012
+Gerrad,Bard,gerrad.bard@gmail.com,75071,5,4-5,2,1,1,2012-03-04 18:21:25,Dallas,April 14-15, 2012
+doc,utecht,uteavalon@verizon.net,75043,4.,8 or more,4,NULL,1,2012-03-04 19:02:25,Dallas,April 14-15, 2012
+bryan,winnett,bryanwinnett@sbcglobal.net,75119,1.,6-7,1,1,1,2012-03-04 19:09:08,Dallas,April 14-15, 2012
+bryan,winnett,bryanwinnett@sbcglobal.net,75119,1.,6-7,1,1,1,2012-03-04 19:10:02,Dallas,April 14-15, 2012
+Mike,Martin,Mikemartin411@hotmail.com,30263,11,4-5,1,1,NULL,2012-03-04 19:37:30,Atlanta,May 19-20, 2012
+Marc,Rogers,Mrogersqb14@gmail.com,95742,16,6-7,3,1,NULL,2012-03-04 20:25:04,Sacramento,April 27-29, 2012
+Ron,Gosselin,rgoss12@verizon.net,2896,18,4-5,1,1,1,2012-03-04 21:07:30,Carlsbad,March 10-11, 2012
+Ron,Gosselin,rgoss12@verizon.net,2896,18,4-5,1,1,1,2012-03-04 21:09:19,Cromwell,Tuesday, June 19, 2012
+Robert,Layman,Formulabob@aol.com,48304,3.,6-7,2,NULL,NULL,2012-03-04 23:25:51,Detroit,May 5-6, 2012
+Lance,Bletscher,play_golfball@yahoo.com,92780,NULL,4-5,NULL,NULL,1,2012-03-05 02:15:43,Carlsbad,March 10-11, 2012
+Marty,Berkulis,MBerkulis@aol.com,92057,22,2-3,NULL,NULL,NULL,2012-03-05 13:15:49,Carlsbad,March 10-11, 2012
+thomas,hardeman,schardeman@tds.net,30513,NULL,8 or more,2,NULL,1,2012-03-05 13:24:44,Atlanta,May 19-20, 2012
+Greg,Koonce,sideuse@wavecable.com,95603,12,2-3,NULL,NULL,NULL,2012-03-05 14:39:11,Sacramento,April 27-29, 2012
+Kyle,Tyll,kyle.tyll@gmail.com,6482,3,8 or more,1,1,1,2012-03-05 15:24:34,Cromwell,Tuesday, June 19, 2012
+Inchul,Shin,golf82@hanmail.net,92591,NULL,8 or more,3,1,1,2012-03-05 15:30:16,Carlsbad,March 10-11, 2012
+Minsuk,Han,minsuk1307@gmail.com,92591,NULL,8 or more,3,1,1,2012-03-05 15:32:34,Carlsbad,March 10-11, 2012
+joe,bowman,joebowman@bex.net,43551,NULL,8 or more,3,NULL,1,2012-03-05 16:55:13,Detroit,May 5-6, 2012
+Dennis,Deming,dcdatmi6@sbcglobal.net,48044,15,8 or more,2,1,1,2012-03-05 17:31:48,Detroit,May 5-6, 2012
+Vicki,John,vicki.l.john@gmail.com,48044,33,6-7,2,1,NULL,2012-03-05 17:36:14,Detroit,May 5-6, 2012
+Minsuk,Han,minsuk1307@gmail.com,92591,NULL,8 or more,4,1,1,2012-03-05 17:49:40,Carlsbad,March 10-11, 2012
+Dokyung,Lee,Ehrud34@naver.com,92591,2,2-3,1,1,1,2012-03-05 17:51:18,Carlsbad,March 10-11, 2012
+Edward,Collier,edmcollier@yahoo.com,76244,14,8 or more,1,NULL,1,2012-03-05 18:41:33,Dallas,April 14-15, 2012
+Robert,Harvey,rfhinmv@aol.com,92630,7.,8 or more,1,1,NULL,2012-03-05 19:11:58,Carlsbad,March 10-11, 2012
+Richard,Wong,rlw2llw@aol.com,75085,12,6-7,2,1,1,2012-03-05 21:21:02,Dallas,April 14-15, 2012
+Binh,Nguyen,Binhqnguyen1981@gmail.com,75082,20,2-3,NULL,1,1,2012-03-05 21:59:47,Dallas,April 14-15, 2012
+Juhyuck,Lim,gablim@empal.com,92591,9,8 or more,3,1,1,2012-03-05 22:06:55,Carlsbad,March 10-11, 2012
+Junghee,Min,gablim@empal.com,92591,16,6-7,3,1,1,2012-03-05 22:08:35,Carlsbad,March 10-11, 2012
+Gerald,Keller,goblue@bex.net,43614,10,4-5,NULL,NULL,1,2012-03-05 22:41:34,Detroit,May 5-6, 2012
+Daniel,DiFilippo,ddifilippo57@msn.com,48730,20,6-7,3,1,1,2012-03-05 22:42:00,Detroit,May 5-6, 2012
+Alfonso U.,Rodriguez,alfver_2001@yahoo.com,76131,15,2-3,2,1,1,2012-03-06 07:56:09,Dallas,April 14-15, 2012
+Brandpn,Foster,bfoster2k7@yahoo.com,76018,20,2-3,NULL,NULL,NULL,2012-03-06 10:24:03,Dallas,April 14-15, 2012
+James,Brown,jmsbrown447@gmail.com,92119,8.,4-5,2,1,NULL,2012-03-06 11:59:05,Carlsbad,March 10-11, 2012
+Ruben ,Hernandez ,rhz21@yahoo.com,76111,28,2-3,2,NULL,1,2012-03-06 13:09:02,Dallas,April 14-15, 2012
+Terry,Collins,tlcollins@mac.com,95827,no,2-3,NULL,NULL,NULL,2012-03-06 13:51:35,Sacramento,April 27-29, 2012
+Adrian,Martinez,adrianmart06@yahoo.com,92592,17,6-7,1,NULL,NULL,2012-03-06 13:54:46,Carlsbad,March 10-11, 2012
+Allen,Smith,ajsmith7305@yahoo.com,95388,NULL,8 or more,NULL,1,1,2012-03-06 15:45:43,Sacramento,April 27-29, 2012
+Paul,Stone,paul@stonemotorsports.com,95388,10,4-5,NULL,NULL,NULL,2012-03-06 15:49:34,Sacramento,April 27-29, 2012
+j0seph,lahert,iplahert@gmail.com,1201,NULL,8 or more,NULL,1,1,2012-03-06 17:38:39,Cromwell,Tuesday, June 19, 2012
+David,Johns,Johnsdthomas@yahoo.com,75048,NULL,8 or more,4,1,1,2012-03-06 18:17:39,Dallas,April 14-15, 2012
+Nick,Urmanita,seasidenick@gmail.com,95746,11,2-3,4,NULL,1,2012-03-06 18:43:56,Sacramento,April 27-29, 2012
+Arnold,Rowe,arnoldr922@yahoo.com,30039,do,2-3,2,NULL,1,2012-03-06 19:00:21,Atlanta,May 19-20, 2012
+Keith D,Vogt,kdv37@att.net,96161,19,8 or more,3,1,NULL,2012-03-06 19:19:24,Sacramento,April 27-29, 2012
+Grorge,Guidi,ghguidi@yahoo.com,92805,15,2-3,NULL,1,1,2012-03-06 20:06:51,Carlsbad,March 10-11, 2012
+Ryan,Howard,rjh204@lehigh.edu,94122,15,2-3,NULL,NULL,NULL,2012-03-06 20:12:36,Sacramento,April 27-29, 2012
+Grorge,Guidi,ghguidi@yahoo.com,92805,15,2-3,NULL,1,1,2012-03-06 20:16:22,Carlsbad,March 10-11, 2012
+Mike,Kirkwood,mkirkwood@ncasd.com,16105,7,8 or more,4,NULL,1,2012-03-06 20:42:45,Detroit,May 5-6, 2012
+Kevin,Duck,Kevduck@aol.com,30126,14,4-5,3,NULL,NULL,2012-03-06 20:46:02,Atlanta,May 19-20, 2012
+Michael ,Haley,jrksgt20@aol.com,1420,21,8 or more,2,1,NULL,2012-03-06 21:02:12,Cromwell,Tuesday, June 19, 2012
+Rodney,Giangiuli,rgiangiuli@yahoo.com,16105,9,8 or more,4,NULL,NULL,2012-03-06 21:05:18,Detroit,May 5-6, 2012
+Joshua,Grimm,joshuatgrimm@gmail.com,94015,23,NULL,NULL,NULL,NULL,2012-03-06 21:08:30,Sacramento,April 27-29, 2012
+Derek,Andre,stlrick5@yahoo.com,48154,11,6-7,2,NULL,NULL,2012-03-06 22:07:23,Detroit,May 5-6, 2012
+Greg,Sullivan,gregsullivan@msn.com,48532,13,8 or more,NULL,1,1,2012-03-06 22:24:51,Detroit,May 5-6, 2012
+Steve,Kinard,Kinards@sbcglobal.net,75209,18,4-5,2,1,1,2012-03-06 22:42:57,Dallas,April 14-15, 2012
+peter,hickey,peterhickey77@gmail.com,35244,5,2-3,NULL,1,1,2012-03-06 23:16:28,Atlanta,May 19-20, 2012
+Brian,Meldrum,Bamel013@yahoo.com,75126,15,4-5,1,1,NULL,2012-03-06 23:26:42,Dallas,April 14-15, 2012
+Scott,Ball,Scottwball@gmail.com,78028,16,6-7,4,NULL,NULL,2012-03-07 10:54:11,Dallas,April 14-15, 2012
+Devin,Phillips,devinlphillips@gmail.com,75204,14,NULL,NULL,NULL,NULL,2012-03-07 11:31:02,Dallas,April 14-15, 2012
+Rick,Greenberg,jocdoc@cox.net,91901,20,8 or more,1,NULL,1,2012-03-07 13:37:20,Carlsbad,March 10-11, 2012
+Ruben,Chanes Jr,chanes_86@hotmail.com,91912,30,2-3,1,NULL,NULL,2012-03-07 13:41:46,Carlsbad,March 10-11, 2012
+jerry,ruppel,jerryruppel1@aol.com,48609,NULL,8 or more,2,NULL,NULL,2012-03-07 13:45:19,Detroit,May 5-6, 2012
+Todd,Rock,trock2362@yahoo.com,30019,20,4-5,1,1,1,2012-03-07 13:48:32,Atlanta,May 19-20, 2012
+lorraine,ruppel,lorraineruppel@yahoo.com,48609,NULL,NULL,2,NULL,NULL,2012-03-07 15:00:48,Detroit,May 5-6, 2012
+Tim,Golden,tgolden650@aol.com,75024,9,8 or more,1,NULL,NULL,2012-03-07 17:08:02,Dallas,April 14-15, 2012
+Matt,Dodge,mmmbdodge@hotmail.com,6118,20,4-5,NULL,1,1,2012-03-07 19:32:25,Cromwell,Tuesday, June 19, 2012
+Abe,Morrison,Amorrison@csdinc.org,76244,10,2-3,2,NULL,1,2012-03-07 19:39:48,Dallas,April 14-15, 2012
+Jason,Brem,Jaybrem@turlock.k12.ca.us,95382,20,2-3,NULL,NULL,NULL,2012-03-07 21:43:33,Sacramento,April 27-29, 2012
+Don,Chaney,chaneytx@embarqmail.com,76557,11,6-7,1,1,1,2012-03-07 22:09:43,Dallas,April 14-15, 2012
+Tom,Wallace,tomwallace13@sbcglobal.net,94513,30,2-3,3,1,1,2012-03-07 22:49:19,Sacramento,April 27-29, 2012
+Mathew,Tuthill,Mathew.tuthill@gmail.com,6451,20,4-5,NULL,1,1,2012-03-08 00:23:23,Cromwell,Tuesday, June 19, 2012
+Sidney,Joyner,golf4sid@yahoo.com,11743,20,6-7,1,1,1,2012-03-08 02:16:31,Cromwell,Tuesday, June 19, 2012
+Larry,Rivett,larryr111@hotmail.com,48603,16,8 or more,3,1,1,2012-03-08 09:16:42,Detroit,May 5-6, 2012
+Neil,Brotherwood,nbrotherwood@hotmail.com,45833,5,6-7,1,1,1,2012-03-08 09:23:21,Detroit,May 5-6, 2012
+John ,Efantis ,jee123@yahoo.com,75093,10,6-7,1,1,1,2012-03-08 10:27:30,Dallas,April 14-15, 2012
+Edwin T. ,Cross JR,ecross21@yahoo.com,30009,11,8 or more,NULL,NULL,1,2012-03-08 10:36:38,Atlanta,May 19-20, 2012
+jay,miasco,jymiasco@yahoo.com,92582,NULL,2-3,1,1,1,2012-03-08 12:06:07,Carlsbad,March 10-11, 2012
+John,Curl,johncurl@hotmail.com,75056,25,2-3,1,NULL,1,2012-03-08 12:06:55,Dallas,April 14-15, 2012
+Christopher,Bump,drcjbump@gmail.com,7461,10,8 or more,1,NULL,1,2012-03-08 12:27:48,Cromwell,Tuesday, June 19, 2012
+glen,torrey,gatorrey@sbcglobal.net,94506,18,6-7,NULL,1,1,2012-03-08 19:04:33,Sacramento,April 27-29, 2012
+Ron,Wentling,railer71@gmail.com,75028,8,4-5,4,NULL,NULL,2012-03-08 19:57:36,Dallas,April 14-15, 2012
+Durand,Clark,durand.clark@comcast.net,30012,20,4-5,2,NULL,NULL,2012-03-08 21:31:44,Atlanta,May 19-20, 2012
+Michael,Smith,Smithwm@gmail.com,76108,20,4-5,2,NULL,NULL,2012-03-08 21:34:56,Dallas,April 14-15, 2012
+Greg,Sullivan,gregsullivan@msn.com,48532,13,6-7,NULL,1,1,2012-03-08 22:10:47,Detroit,May 5-6, 2012
+David,Floyd,dmfloyd83@yahoo.com,30534,14,8 or more,1,1,1,2012-03-09 08:53:26,Atlanta,May 19-20, 2012
+Kevin,Allred,kvajallred@comcast.net,30548,18,2-3,2,1,1,2012-03-09 10:06:04,Atlanta,May 19-20, 2012
+Jung hee,Min,gablim@empal.com,92591,18,6-7,4,1,1,2012-03-09 14:38:45,Carlsbad,March 10-11, 2012
+Myung sook,Kim,gablim@empal.com,92591,20,6-7,4,1,1,2012-03-09 14:39:23,Carlsbad,March 10-11, 2012
+Joe,Pachuta,jp5005@yahoo.com,30101,11,4-5,1,1,1,2012-03-09 15:14:30,Atlanta,May 19-20, 2012
+Juan,Salas,jsalasii@gmail.com,30101,9.,6-7,NULL,NULL,NULL,2012-03-09 15:19:18,Atlanta,May 19-20, 2012
+TONY,MARQUES,tlmarques@volcano.net,95642,18,4-5,NULL,NULL,1,2012-03-09 20:09:16,Sacramento,April 27-29, 2012
+robert,fletcher,fletcherrobert85@yahoo.com,31064,20,4-5,1,1,NULL,2012-03-09 20:28:27,Atlanta,May 19-20, 2012
+Ronnie,Sparks,rlsparks@ymail.com,76708,16,6-7,NULL,NULL,NULL,2012-03-09 21:22:13,Dallas,April 14-15, 2012
+Aldrin,Osha,aldrino7@yahoo.com,94587,20,4-5,NULL,1,NULL,2012-03-10 00:56:15,Sacramento,April 27-29, 2012
+Sasa,Pirc,eurotennis1@yahoo.com,30326,11,8 or more,2,NULL,NULL,2012-03-10 09:01:40,Atlanta,May 19-20, 2012
+Jose,Gallegos,micgeog@hotmail.com,6902,20,NULL,NULL,NULL,NULL,2012-03-10 10:20:26,Cromwell,Tuesday, June 19, 2012
+Dan,Gelling,d_gelling@hotmail.com,30076,9,4-5,1,1,1,2012-03-10 10:24:22,Atlanta,May 19-20, 2012
+Michael,Howe,scgolfer72@yahoo.com,92592,+2,8 or more,4,1,1,2012-03-10 11:02:36,Carlsbad,March 10-11, 2012
+David,Dick,dvddck9@gmail.com,75248,9,4-5,NULL,NULL,1,2012-03-10 11:37:47,Dallas,April 14-15, 2012
+Steven,Stewart,Sgstewart1@comcast.net,3079,7,8 or more,2,1,1,2012-03-10 14:50:00,Cromwell,Tuesday, June 19, 2012
+sharon,johnson,sharon.johnson315@gmail.com,48079,12,8 or more,1,NULL,NULL,2012-03-10 16:12:34,Detroit,May 5-6, 2012
+michael,pappas,mgp3537@gmail.com,48079,12,8 or more,1,NULL,NULL,2012-03-10 16:15:13,Detroit,May 5-6, 2012
+Tom,Friesen,tfriesen@cogeco.ca,123456,13,8 or more,2,1,1,2012-03-10 16:35:31,Detroit,May 5-6, 2012
+Richard,Ames,golfing_papa@earthlink.net,90803,30,8 or more,NULL,1,1,2012-03-10 19:48:39,Carlsbad,March 10-11, 2012
+Tim,McNulty,krouge5@mac.com,92081,20,2-3,2,NULL,NULL,2012-03-10 20:46:12,Carlsbad,March 10-11, 2012
+Tori,McNulty,torimcnulty@me.com,92081,30,2-3,NULL,NULL,NULL,2012-03-10 20:47:21,Carlsbad,March 10-11, 2012
+Tim,McNulty,krouge5@mac.com,92081,20,2-3,2,NULL,1,2012-03-10 20:47:49,Carlsbad,March 10-11, 2012
+James,Smith,smitty46@comcast.net,98248,13,6-7,1,1,1,2012-03-10 21:39:11,Sacramento,April 27-29, 2012
+Kent,Tartt,kent.tartt@gmail.com,92115,30,8 or more,1,NULL,1,2012-03-10 21:43:05,Carlsbad,March 10-11, 2012
+Keith,Menchen,kmench38@gmail.com,75070,11,4-5,NULL,NULL,NULL,2012-03-10 22:29:22,Dallas,April 14-15, 2012
+Ryan,Lester,rjlester58@yahoo.com,75039,19,2-3,2,NULL,NULL,2012-03-10 23:49:08,Dallas,April 14-15, 2012
+Shane,Reese,Supraman007@gmail.com,92126,15,8 or more,2,1,1,2012-03-11 07:25:35,Carlsbad,March 10-11, 2012
+Richard,Goldstein,trb09500@msn.com,75006,16,8 or more,NULL,NULL,NULL,2012-03-11 08:42:46,Dallas,April 14-15, 2012
+Peter,Hofman,boycito49@yahoo.com,92111,17,4-5,1,NULL,NULL,2012-03-11 15:16:52,Carlsbad,March 10-11, 2012
+Nemesia ,Hofman,boycito49@yahoo.com,92111,no,2-3,1,NULL,NULL,2012-03-11 15:18:57,Carlsbad,March 10-11, 2012
+Bruce,Leslie,bhleslie7@yahoo.com,92110,no,4-5,1,NULL,NULL,2012-03-11 15:20:07,Carlsbad,March 10-11, 2012
+Greg,Welch,gregoryblake00@hotmail.com,30005,30,2-3,NULL,NULL,NULL,2012-03-11 15:46:10,Atlanta,May 19-20, 2012
+Zach,Stirling,zach1278@att.net,75002,12,2-3,NULL,1,1,2012-03-11 21:11:21,Dallas,April 14-15, 2012
+Terry,Stirling,zach1278@att.net,75002,1,2-3,NULL,NULL,NULL,2012-03-11 21:12:30,Dallas,April 14-15, 2012
+Scott,Worrell,scott@rfg-integrations.com,75052,8.,8 or more,3,1,1,2012-03-11 21:27:11,Dallas,April 14-15, 2012
+Esteban,Garcia,elg0611@yahoo.com,75052,20,8 or more,3,1,1,2012-03-11 21:28:53,Dallas,April 14-15, 2012
+Jesse,Benavidez,jesse@rfg-integrations.com,75180,14,8 or more,3,1,1,2012-03-11 21:31:11,Dallas,April 14-15, 2012
+Sacheen,Patel,sacheenpatel@yahoo.com,28104,18,4-5,3,NULL,NULL,2012-03-11 21:53:31,Atlanta,May 19-20, 2012
+Tushar,Patel,tushar.patel2424@gmail.com,30024,NULL,NULL,NULL,NULL,NULL,2012-03-11 21:59:14,Atlanta,May 19-20, 2012
+Tushar,Patel,tushar.patel2424@gmail.com,30024,10,2-3,3,1,1,2012-03-11 21:59:51,Atlanta,May 19-20, 2012
+Josh,Ross,josh.ross20@gmail.com,30540,8,2-3,1,NULL,NULL,2012-03-12 00:48:05,Atlanta,May 19-20, 2012
+Joe,Giguere,jgiguere17@comcast.net,95337,10,4-5,1,NULL,NULL,2012-03-12 01:42:17,Sacramento,April 27-29, 2012
+Poole,Jones,Jonesphilw@verizon.com,21136,8,8 or more,2,1,1,2012-03-12 09:22:33,Carlsbad,March 10-11, 2012
+edward,fortaw,elftx@comcast.net,30319,15,4-5,NULL,NULL,NULL,2012-03-12 10:35:47,Atlanta,May 19-20, 2012
+Brent,Foster,joelbfoster@eaton.com,79121,10,8 or more,2,NULL,NULL,2012-03-12 11:52:37,Dallas,April 14-15, 2012
+Lisa,Foster,jbrent.foster@suddenlink.net,79121,32,8 or more,2,NULL,NULL,2012-03-12 11:54:48,Phoenix,March 24-25, 2012
+Lisa,Foster,jbrent.foster@suddenlink.net,79121,32,8 or more,2,NULL,NULL,2012-03-12 11:56:23,Dallas,April 14-15, 2012
+j,forte,jforte@bellsouth.net,30214,18,NULL,NULL,NULL,NULL,2012-03-12 12:01:56,Atlanta,May 19-20, 2012
+Chris,Ewing,ewing500@gmail.com,48060,28,4-5,NULL,NULL,NULL,2012-03-12 13:30:40,Detroit,May 5-6, 2012
+Frank,Graham,Frank.Graham@Jacobs.com,75206,8,8 or more,4,NULL,NULL,2012-03-12 14:00:16,Dallas,April 14-15, 2012
+Todd,Harper,toddharper@me.com,75254,7,2-3,1,NULL,1,2012-03-12 15:43:31,Dallas,April 14-15, 2012
+Elbert,Ross,dawg061@gmail.com,30540,15,2-3,NULL,NULL,NULL,2012-03-12 16:25:03,Atlanta,May 19-20, 2012
+Gavon,Byrd,gbyrd9008@gmail.com,30622,11,NULL,NULL,NULL,NULL,2012-03-12 16:49:34,Atlanta,May 19-20, 2012
+Dereck,Counter,dereck.counter@gmail.com,95765,16,2-3,1,NULL,1,2012-03-12 21:57:49,Sacramento,April 27-29, 2012
+James,Sammut,jamespsammut@gmail.com,95819,16,2-3,NULL,NULL,1,2012-03-12 22:54:56,Sacramento,April 27-29, 2012
+Wayne,DuMas,waynedumas79@yahoo.com,75043,8,4-5,2,1,1,2012-03-13 13:03:30,Carlsbad,March 10-11, 2012
+Wayne,DuMas,waynedumas79@yahoo.com,75043,8,4-5,2,1,1,2012-03-13 13:07:31,Dallas,April 14-15, 2012
+kyle,tabb,tabberc2@yahoo.com,1118,NULL,8 or more,2,1,1,2012-03-13 20:11:07,Cromwell,Tuesday, June 19, 2012
+Wayne,Gulsby,jgulsby@yahoo.com,29803,9,2-3,NULL,1,1,2012-03-13 21:20:16,Atlanta,May 19-20, 2012
+MARK,ANDERSON,cptmark@sbcglobal.net,95642,21,4-5,1,NULL,NULL,2012-03-13 22:41:10,Sacramento,April 27-29, 2012
+Rodney,Cole,Rlcole0606@aol.com,75025,16,4-5,NULL,NULL,NULL,2012-03-13 23:22:34,Dallas,April 14-15, 2012
+Christopher,Sakanoi,csakanoi@gmail.com,48377,12,4-5,2,NULL,NULL,2012-03-14 00:14:34,Detroit,May 5-6, 2012
+Lauren,Hosner,lehosner@svsu.edu,48094,25,NULL,NULL,NULL,NULL,2012-03-14 00:26:49,Detroit,May 5-6, 2012
+Dave,Barry,d.barry09@yahoo.com,48152,12,2-3,1,NULL,1,2012-03-14 05:46:09,Detroit,May 5-6, 2012
+Michael,Theodorou,mnt1118@earthlink.net,34711,33,4-5,NULL,1,1,2012-03-14 18:53:26,Atlanta,May 19-20, 2012
+John,Cosgrove,cosgrove78@gmail.com,95819,28,2-3,1,NULL,NULL,2012-03-14 19:20:49,Sacramento,April 27-29, 2012
+Mark,Winters,markawint@msn.com,76051,17,2-3,2,NULL,NULL,2012-03-14 20:26:42,Dallas,April 14-15, 2012
+Tom,king,trknhfd@sbcglobal.net,6471,15,8 or more,1,1,1,2012-03-14 20:38:08,Cromwell,Tuesday, June 19, 2012
+Brandon,Litzner,brandon.r.litzner@gmail.com,75019,10,4-5,NULL,1,1,2012-03-14 21:34:19,Dallas,April 14-15, 2012
+Doug,Smith,douglas738@yahoo.com,75081,16,6-7,NULL,1,1,2012-03-14 22:10:03,Dallas,April 14-15, 2012
+Joe,Barber,joepy55@msn.com,75019,5,2-3,1,NULL,NULL,2012-03-15 09:37:21,Dallas,April 14-15, 2012
+Jeanette,Paprocki,jeanettep113@verizon.net,11361,25,8 or more,4,NULL,NULL,2012-03-15 10:03:27,Cromwell,Tuesday, June 19, 2012
+chris,denny,cdenny@kiowacasino.com,76354,12,6-7,2,1,1,2012-03-15 10:22:35,Dallas,April 14-15, 2012
+jon,christine,jon_christine5@hotmail.com,85014,25,2-3,3,NULL,NULL,2012-03-15 12:18:43,Phoenix,March 24-25, 2012
+Scott,Hughes,middleshoes@yahoo.com,85201,13,4-5,NULL,NULL,NULL,2012-03-15 12:20:03,Phoenix,March 24-25, 2012
+gabe,estrada,GAEJR@AOL.COM,85351,7,8 or more,2,NULL,1,2012-03-15 12:20:44,Phoenix,March 24-25, 2012
+Bob,Johnson,johnson6643@gmail.com,85331,16,4-5,1,1,1,2012-03-15 12:21:19,Phoenix,March 24-25, 2012
+Jim,Dudek,jrdudek@yahoo.com,85345,18,4-5,NULL,NULL,NULL,2012-03-15 12:24:29,Phoenix,March 24-25, 2012
+Jonathan,White,jonathan.white@xerox.com,85085,20,NULL,1,1,1,2012-03-15 12:26:29,Phoenix,March 24-25, 2012
+Ron,Gold,ronlgold@aol.com,85377,6,8 or more,3,NULL,NULL,2012-03-15 12:27:50,Phoenix,March 24-25, 2012
+Ralph,Knight,az.rufus@gmail.com,85382,6.,8 or more,2,NULL,NULL,2012-03-15 12:29:13,Phoenix,March 24-25, 2012
+earl,burwash,edburwash@hotmail.com,85335,8,8 or more,2,NULL,1,2012-03-15 12:29:15,Phoenix,March 24-25, 2012
+Nick ,Fine,nick@aiassociatesllc.com,85260,2.,8 or more,NULL,1,1,2012-03-15 12:31:44,Phoenix,March 24-25, 2012
+Lewis,Greer,lgreer@mac.com,85233,2.,8 or more,NULL,1,1,2012-03-15 12:38:44,Phoenix,March 24-25, 2012
+Nicholas,Jorgenson,nick.jorgenson@gmail.com,85250,20,4-5,2,NULL,NULL,2012-03-15 12:51:50,Phoenix,March 24-25, 2012
+Barney,Dannov,captbad@cox.net,85022,11,6-7,NULL,NULL,NULL,2012-03-15 12:52:56,Phoenix,March 24-25, 2012
+Jack,Nally,Jacknally55@gmail.com,85262,14,2-3,1,NULL,1,2012-03-15 12:58:30,Phoenix,March 24-25, 2012
+Richard,Dziurzynski,skiinariz@aol.com,85373,13,2-3,NULL,1,1,2012-03-15 12:59:54,Phoenix,March 24-25, 2012
+Scott,Waterhouse,golf@ipemanagement.com,85266,11,8 or more,3,NULL,NULL,2012-03-15 13:03:51,Phoenix,March 24-25, 2012
+james,NORTON,FATBOYNOR@AOL.COM,85339,14,8 or more,NULL,1,1,2012-03-15 13:19:41,Phoenix,March 24-25, 2012
+Scot,Aubrey,scotaubrey@yahoo.com,85234,10,2-3,1,NULL,NULL,2012-03-15 13:19:41,Phoenix,March 24-25, 2012
+Marc,Melbo,mmelbo@cox.net,85382,7,6-7,1,NULL,1,2012-03-15 13:23:23,Phoenix,March 24-25, 2012
+Steve,Fair,Fairsway@gmail.com,85331,18,2-3,1,NULL,1,2012-03-15 13:49:38,Phoenix,March 24-25, 2012
+Phil,Polomsky,c447e157@aol.com,85258,24,8 or more,NULL,1,1,2012-03-15 13:52:52,Phoenix,March 24-25, 2012
+Nolan,Recker,thenamesnolan@gmail.com,85029,10,8 or more,NULL,NULL,NULL,2012-03-15 13:59:08,Phoenix,March 24-25, 2012
+mark,kramer,crimedog960@aol.com,85379,8.,4-5,1,NULL,1,2012-03-15 13:59:23,Phoenix,March 24-25, 2012
+Walter,Miller,wamshane@yahoo.com,85249,18,4-5,2,1,1,2012-03-15 14:02:23,Phoenix,March 24-25, 2012
+Barry ,Fuson,b.fuson@yahoo.com,85048,NULL,8 or more,NULL,NULL,1,2012-03-15 14:03:11,Phoenix,March 24-25, 2012
+David,Moulder,david.moulder@publicis-usa.com,75010,20,2-3,NULL,NULL,NULL,2012-03-15 14:21:27,Dallas,April 14-15, 2012
+John,Susko,johnsusko@cox.net,85022,20,4-5,NULL,1,1,2012-03-15 14:32:10,Phoenix,March 24-25, 2012
+Brad,Berko,brad@scottsdalecigarclub.com,85260,11,2-3,NULL,NULL,1,2012-03-15 14:48:50,Phoenix,March 24-25, 2012
+Daniel,Strattan,djs0001@aol.com,85345,8.,4-5,NULL,1,1,2012-03-15 14:49:40,Phoenix,March 24-25, 2012
+Keith,Baird,Macbhaird87@yahoo.com,85283,20,2-3,1,NULL,NULL,2012-03-15 15:04:14,Phoenix,March 24-25, 2012
+David,Biondi,dbiondi14@yahoo.com,48324,15,4-5,3,1,1,2012-03-15 16:02:20,Detroit,May 5-6, 2012
+garry,woodard,gdwoodard.gw@gmail.com,85339,14,8 or more,NULL,1,1,2012-03-15 16:02:32,Phoenix,March 24-25, 2012
+Johnny,Bello,juano_bello@yahoo.com,85281,20,4-5,NULL,1,1,2012-03-15 16:13:43,Phoenix,March 24-25, 2012
+Ray,Eide,primrosecorgis@wildblue.net,95633,15,2-3,1,NULL,1,2012-03-15 16:17:56,Sacramento,April 27-29, 2012
+Ronald,reid,reidrd2@cox.net,85383,NULL,8 or more,NULL,1,1,2012-03-15 16:32:30,Phoenix,March 24-25, 2012
+Tim,otwell,oldclubs@yahoo.com,30066,NULL,6-7,2,NULL,NULL,2012-03-15 16:34:22,Atlanta,May 19-20, 2012
+Roland,Uchida,ulua1953@hotmail.com,85248,15,8 or more,NULL,NULL,NULL,2012-03-15 16:42:36,Phoenix,March 24-25, 2012
+joe,munson,jfmjr1965@gmail.com,5015,10,8 or more,NULL,1,NULL,2012-03-15 16:46:40,Phoenix,March 24-25, 2012
+Gary,Vinneau,gvinneau@hotmail.com,85351,8,8 or more,NULL,NULL,NULL,2012-03-15 17:26:43,Phoenix,March 24-25, 2012
+Daniel,Pagliari,dpagliari@palpaglaw.com,15068,11,8 or more,3,NULL,NULL,2012-03-15 17:44:14,Phoenix,March 24-25, 2012
+Gary,Scott,GScott39@cox.net,85374,12,8 or more,2,1,1,2012-03-15 18:03:21,Phoenix,March 24-25, 2012
+Gary,Dugwyler,gnhdugwyler@hotmail.com,85310,14,NULL,NULL,NULL,NULL,2012-03-15 18:10:04,Phoenix,March 24-25, 2012
+Daniel,J Rourke,djrourke_47@yahoo.com,85383,12,8 or more,3,1,1,2012-03-15 18:20:12,Phoenix,March 24-25, 2012
+Daniel,J Rourke,djrourke_47@yahoo.com,85383,12,8 or more,3,1,1,2012-03-15 18:22:41,Phoenix,March 24-25, 2012
+ken,tobin,ktobin@nf.sympatico.ca,3,16,8 or more,1,NULL,NULL,2012-03-15 18:33:15,Dallas,April 14-15, 2012
+Efren,Martin,efren_mrtn@yahoo.com,85383,20,4-5,NULL,1,1,2012-03-15 18:37:36,Phoenix,March 24-25, 2012
+eddie,scola,gt5001@cox.net,85382,18,2-3,NULL,NULL,NULL,2012-03-15 19:29:26,Phoenix,March 24-25, 2012
+Tom,Taylor,aztom812@cox.net,85351,14,8 or more,NULL,NULL,NULL,2012-03-15 19:41:10,Phoenix,March 24-25, 2012
+Mark ,Mikkelson,mvmikkelson@aol.com,85306,9,4-5,1,1,1,2012-03-15 19:47:24,Phoenix,March 24-25, 2012
+raymond,lee,rmcjlee@gmail.com,85326,5,8 or more,1,NULL,1,2012-03-15 21:55:30,Phoenix,March 24-25, 2012
+Phillip,Forrester,pmfbruin@gmail.com,85261,8,6-7,2,1,1,2012-03-15 22:47:41,Phoenix,March 24-25, 2012
+Phillip,Forrester,pmfbruin@gmail.com,85261,8,6-7,2,1,1,2012-03-15 22:47:57,Phoenix,March 24-25, 2012
+vern,urich,vernurich@me.com,85375,9,8 or more,4,NULL,NULL,2012-03-15 22:52:37,Phoenix,March 24-25, 2012
+arnie,kvarnberg,akvarnberg@cox.net,85373,5,8 or more,2,1,1,2012-03-15 23:16:42,Phoenix,March 24-25, 2012
+Donald,Weber,dweber1071@mac.com,54701,9,8 or more,3,NULL,NULL,2012-03-15 23:18:38,Phoenix,March 24-25, 2012
+Eric,Weber,golferdoode@yahoo.com,54701,13,6-7,1,NULL,NULL,2012-03-15 23:19:40,Phoenix,March 24-25, 2012
+JOE,MCQUISTION,jbmcquistion@cox.net,85382,NULL,4-5,NULL,1,1,2012-03-16 00:06:16,Phoenix,March 24-25, 2012
+Stephen,Cantor,stephencantor@hotmail.com,86303,NULL,4-5,1,1,1,2012-03-16 01:01:33,Phoenix,March 24-25, 2012
+Michael,Pietro,mlpietro@hotmail.com,85086,un,2-3,1,1,1,2012-03-16 04:10:24,Phoenix,March 24-25, 2012
+Alex,Luong,alxand0r@gmail.com,96789,NULL,8 or more,2,1,1,2012-03-16 05:04:05,Sacramento,April 27-29, 2012
+Keith,Baird,macbhaird87@yahoo.com,85283,20,2-3,1,NULL,NULL,2012-03-16 08:49:29,Phoenix,March 24-25, 2012
+Robert,Taylor,Robcoltaylor@hotmail.com,85335,18,8 or more,1,1,1,2012-03-16 09:26:04,Phoenix,March 24-25, 2012
+Woody,Leach ,woodmanone@inbox.com,85351,18,2-3,2,1,1,2012-03-16 09:27:34,Phoenix,March 24-25, 2012
+Ian,Braucksieker,Ibraucksieker@gmail.com,76063,10,2-3,2,1,1,2012-03-16 09:31:16,Dallas,April 14-15, 2012
+Richard,Hall,rlmhall@comcast.net,85378,18,8 or more,3,1,1,2012-03-16 10:44:17,Phoenix,March 24-25, 2012
+Adam,Johnston,adamlj13@hotmail.com,85327,13,4-5,NULL,1,1,2012-03-16 11:16:46,Phoenix,March 24-25, 2012
+Royce,Sparks,rsparks@linnenergy.com,76951,15,8 or more,2,NULL,1,2012-03-16 13:41:48,Dallas,April 14-15, 2012
+Kurt,Hochrein,kurt@hochrein.cm,48130,6,2-3,1,NULL,NULL,2012-03-16 14:15:59,Detroit,May 5-6, 2012
+Paul,Russell,plr2256@msn.com,85226,9,8 or more,2,1,1,2012-03-16 14:52:13,Phoenix,March 24-25, 2012
+dick,laurie,mini@centurylink.net,85331,10,NULL,NULL,NULL,NULL,2012-03-16 17:06:08,Phoenix,March 24-25, 2012
+Chris,Milliorn,List@hinano.org,75082,37,2-3,1,1,1,2012-03-16 18:28:16,Dallas,April 14-15, 2012
+Jack,Green,ddgnw@q.com,85018,24,2-3,NULL,1,NULL,2012-03-16 22:35:45,Phoenix,March 24-25, 2012
+Patty,Lopez,Forelopez@yahoo.com,85254,8,4-5,2,NULL,NULL,2012-03-16 23:02:38,Phoenix,March 24-25, 2012
+Bernard,Ing,bing2@cox.net,85283,10,2-3,4,NULL,NULL,2012-03-17 00:07:27,Phoenix,March 24-25, 2012
+David,Wager,dpwager@yahoo.com,76219,NULL,6-7,NULL,1,1,2012-03-17 00:30:14,Dallas,April 14-15, 2012
+Jack,Weiss,imdjw@aol.com,85250,8.,4-5,1,NULL,NULL,2012-03-17 01:37:24,Phoenix,March 24-25, 2012
+Edward,Yu,Fwu101@yahoo.com.tw,85281,4,6-7,NULL,1,1,2012-03-17 03:03:08,Phoenix,March 24-25, 2012
+Ivy,Chiu,Yvi101@yahoo.com.tw,85281,35,4-5,NULL,NULL,NULL,2012-03-17 03:05:24,Phoenix,March 24-25, 2012
+Phillip,Zeidman,pzinaz@aol.com,85395,26,8 or more,NULL,1,1,2012-03-17 12:16:12,Phoenix,March 24-25, 2012
+cory,jansen,ankyjansen321@msn.com,86025,NULL,8 or more,NULL,NULL,NULL,2012-03-17 14:18:27,Phoenix,March 24-25, 2012
+cory,jansen,ankyjansen321@msn.com,86025,6,8 or more,NULL,1,1,2012-03-17 14:19:42,Phoenix,March 24-25, 2012
+Cole ,De Arman  ,coledearman@hotmail.com,85224,14,6-7,4,1,1,2012-03-17 15:40:00,Phoenix,March 24-25, 2012
+mike,mcgregor,mmcgregor54@aol.com,85383,12,4-5,NULL,NULL,1,2012-03-17 18:25:55,Phoenix,March 24-25, 2012
+Mark,Howard,mjh1561@aol.com,95687,20,4-5,1,NULL,NULL,2012-03-17 19:13:27,Sacramento,April 27-29, 2012
+Eric,Handy,ehandy@att.net,95687,26,2-3,1,NULL,NULL,2012-03-17 19:14:39,Sacramento,April 27-29, 2012
+Judith ,Flax                                ,judiflax@cox.net,85375,14,8 or more,1,NULL,NULL,2012-03-17 20:05:00,Phoenix,March 24-25, 2012
+David,Oppenheim,doppenheim@cox.net,85254,20,4-5,2,1,1,2012-03-18 09:11:47,Phoenix,March 24-25, 2012
+narong,chamkasem,narongchamkasem@yahoo.com,30309,15,2-3,NULL,1,1,2012-03-18 09:41:41,Atlanta,May 19-20, 2012
+Mark,Lucarelli,sunnyazmark@gmail.com,85614,7,8 or more,NULL,NULL,NULL,2012-03-18 16:38:50,Phoenix,March 24-25, 2012
+Jesse,Cochenour,jestcoke04@yahoo.com,95765,11,2-3,3,NULL,NULL,2012-03-18 21:18:17,Sacramento,April 27-29, 2012
+Patrick,Holder,pfrancis631@clear.net,30044,8.,8 or more,1,1,1,2012-03-18 21:23:24,Atlanta,May 19-20, 2012
+paul,tresadern,paultresadern@yahoo.com,85210,16,2-3,NULL,1,1,2012-03-19 00:41:36,Phoenix,March 24-25, 2012
+Ken,Vargas,ktvargas@hotmail.com,95765,18,2-3,1,NULL,NULL,2012-03-19 00:44:46,Sacramento,April 27-29, 2012
+Fletcher,SchulerFletcherS,Schuler33@gmail.com,85254,14,8 or more,2,NULL,NULL,2012-03-19 01:09:06,Phoenix,March 24-25, 2012
+Sidney,Sparks,bigron138@hotmail.com,75455,28,2-3,NULL,NULL,NULL,2012-03-19 19:04:56,Dallas,April 14-15, 2012
+Peter ,King ,peter-31@msn.com,85331,14,8 or more,NULL,NULL,NULL,2012-03-19 19:30:20,Phoenix,March 24-25, 2012
+Brett,Howard,Howard225@att.net,30076,29,4-5,NULL,1,1,2012-03-19 22:38:20,Atlanta,May 19-20, 2012
+Chris,Reichart,Chris_reichart@hotmail.com,30318,8,4-5,2,NULL,NULL,2012-03-20 02:44:07,Atlanta,May 19-20, 2012
+Victor,Barrow,veebee11@hotmail.com,85296,NULL,NULL,NULL,NULL,NULL,2012-03-21 02:19:11,Phoenix,March 24-25, 2012
+jesse,bates,jjet.bates@yahoo.com,29801,8,NULL,NULL,NULL,NULL,2012-03-21 08:51:34,Atlanta,May 19-20, 2012
+Sean,Mangosing,seanmangosing@gmail.com,94804,20,8 or more,NULL,1,1,2012-03-21 11:38:56,Sacramento,April 27-29, 2012
+stan,brice,s.-brice1@hotmail.com,85323,NULL,4-5,2,1,1,2012-03-21 12:29:13,Phoenix,March 24-25, 2012
+Marc,Lewin,hopkinscowboys@hotmail.com,75205,17,6-7,NULL,NULL,NULL,2012-03-22 10:49:21,Dallas,April 14-15, 2012
+Thomas,Beyers,thomasbeyers@yahoo.com,75044,5,8 or more,2,1,1,2012-03-22 14:00:43,Dallas,April 14-15, 2012
+Charles,Kost,mavrick32@hotmail.com,32825,21,8 or more,NULL,1,1,2012-03-22 16:29:54,Dallas,April 14-15, 2012
+John,Coprich,jcoprich@bellsouth.net,30088,18,4-5,1,NULL,NULL,2012-03-22 18:40:30,Atlanta,May 19-20, 2012
+Ben,Budzowski,benspub1@cox.net,85331,18,8 or more,NULL,NULL,NULL,2012-03-22 19:15:10,Phoenix,March 24-25, 2012
+Howard,Aunapu,fadmoo@comcast.net,94951,15,6-7,3,NULL,NULL,2012-03-23 00:44:57,Sacramento,April 27-29, 2012
+Brian,Harris,Brianharris819@gmail.com,85054,20,2-3,NULL,1,1,2012-03-23 00:48:46,Phoenix,March 24-25, 2012
+Robert,Kurahashi,rob.kurahashi@verizon.net,75093,6.,4-5,1,NULL,NULL,2012-03-23 10:26:33,Dallas,April 14-15, 2012
+Eric,Ure,ebarney69@yahoo.com,85013,16,NULL,4,1,1,2012-03-23 11:10:21,Phoenix,March 24-25, 2012
+Darrel,Fuelberth,darrel@propertyexchangepartners.com,85351,13,4-5,1,1,NULL,2012-03-23 11:11:06,Phoenix,March 24-25, 2012
+GARY,WEEKS,garynsandi@hotmail.com,75765,11,8 or more,NULL,1,1,2012-03-23 12:12:36,Dallas,April 14-15, 2012
+Cassandra,Weeks,garynsandi@hotmail.com,75765,29,8 or more,NULL,1,1,2012-03-23 12:21:13,Dallas,April 14-15, 2012
+David,Quaid,Quaid.david@gmail.com,85381,17,2-3,NULL,NULL,NULL,2012-03-23 12:22:58,Phoenix,March 24-25, 2012
+Tom,Quaid,Tom@vcfnp.com,85308,25,2-3,NULL,NULL,NULL,2012-03-23 12:24:17,Phoenix,March 24-25, 2012
+Jack,Sullivan,Jacksull@cox.net,85255,10,8 or more,2,NULL,NULL,2012-03-23 23:04:00,Phoenix,March 24-25, 2012
+Paul,Jenson,pauljenson@msn.com,85268,16,6-7,NULL,NULL,1,2012-03-23 23:28:17,Phoenix,March 24-25, 2012
+dusty,foglesong,foggy101@hotmail.com,85087,10,8 or more,2,NULL,NULL,2012-03-23 23:49:23,Phoenix,March 24-25, 2012
+Steve,Grimmer,sgrimmer@jonesallen.com,75243,1,4-5,1,1,NULL,2012-03-24 01:33:21,Dallas,April 14-15, 2012
+Phil,Masciangelo,pmascian@asu.edu,85281,2,8 or more,NULL,NULL,NULL,2012-03-24 03:45:49,Phoenix,March 24-25, 2012
+Omar,Nadi,omar.nadi@gmail.com,303182,15,4-5,1,NULL,NULL,2012-03-24 08:55:17,Atlanta,May 19-20, 2012
+Douglas,Barnes,Dbarnes@strategicipm.com,30005,9.,4-5,2,1,1,2012-03-24 10:03:18,Atlanta,May 19-20, 2012
+Tom,Burnett,Tburnett@hap.org,48224,20,4-5,2,NULL,NULL,2012-03-24 16:52:50,Detroit,May 5-6, 2012
+David,Burnett,burnettj@umd.umich.edu,48224,15,4-5,1,NULL,NULL,2012-03-24 16:54:20,Detroit,May 5-6, 2012
+Dean,Malabanan,dean.malabanan.jr@gmail.com,75082,18,4-5,NULL,NULL,NULL,2012-03-24 23:31:56,Dallas,April 14-15, 2012
+Peter,Papoulias,peterpapoulias@hotmail.com,30005,15,8 or more,1,1,1,2012-03-25 01:26:42,Atlanta,May 19-20, 2012
+Ron,Luenke,HDLowrider50@Netscape.net,85024,10,NULL,1,1,1,2012-03-25 12:39:19,Phoenix,March 24-25, 2012
+Joe,FuscoJoeF,Dess78@aol.com,11209,13,8 or more,NULL,1,1,2012-03-25 16:48:36,Cromwell,Tuesday, June 19, 2012
+Bob,price,bobprice777@yahoo.com,75025,7.,2-3,NULL,NULL,NULL,2012-03-26 10:34:12,Dallas,April 14-15, 2012
+Rick,Kimball,rkimb159@gmail.com,75080,20,2-3,NULL,NULL,NULL,2012-03-26 12:07:35,Dallas,April 14-15, 2012
+john,harrington,harrjohn@comcast.net,94517,18,8 or more,3,NULL,NULL,2012-03-26 12:42:48,Sacramento,April 27-29, 2012
+jean,harrington,harrjohn@comcast.net,94517,22,8 or more,3,NULL,NULL,2012-03-26 12:43:33,Sacramento,April 27-29, 2012
+Neal,Kellogg,nkellogg@sbcglobal.net,6512,18,4-5,NULL,NULL,NULL,2012-03-26 12:51:43,Cromwell,Tuesday, June 19, 2012
+jesse,sauceda,jessesauceda@rocketmail.com,76549,22,2-3,1,1,1,2012-03-27 00:13:30,Dallas,April 14-15, 2012
+Gregg,Addington,winecountry@comcast.net,95240,7,2-3,NULL,1,1,2012-03-27 05:40:18,Sacramento,April 27-29, 2012
+MUNCIE,FAHRION,muncief@sbcglobal.net,94520,NULL,8 or more,4,NULL,NULL,2012-03-27 20:39:13,Sacramento,April 27-29, 2012
+Barry,McLaren,Barrymclaren@hotmail.com,75001,2,4-5,1,1,NULL,2012-03-28 00:20:10,Dallas,April 14-15, 2012
+Jason,Gould,jallan84@gmail.com,75254,12,8 or more,1,NULL,NULL,2012-03-28 09:55:09,Dallas,April 14-15, 2012
+Jeffrey ,Alvarado ,ffreeyj40@yahoo.com,76541,40,2-3,NULL,NULL,NULL,2012-03-28 13:09:58,Dallas,April 14-15, 2012
+Phil,Metzger,Pmetzger27@gmail.com,30215,24,8 or more,NULL,1,1,2012-03-29 10:30:51,Atlanta,May 19-20, 2012
+Timo,Amen,tjamen@comcast.net,95209,18,4-5,NULL,NULL,NULL,2012-03-29 13:47:54,Sacramento,April 27-29, 2012
+Ed,Sams,ed@edsams.com,30189,NULL,4-5,NULL,NULL,NULL,2012-03-30 07:13:56,Atlanta,May 19-20, 2012
+James,White,whiteymann@aol.com,46898,10,6-7,2,1,1,2012-03-30 07:19:18,Detroit,May 5-6, 2012
+Brian,Livingston,brianlivingston1@aol.com,48167,6,8 or more,2,NULL,NULL,2012-03-30 07:20:08,Detroit,May 5-6, 2012
+Dale,Bryan,Banston55@hotmail.com,76063,14,8 or more,4,1,1,2012-03-30 16:32:06,Dallas,April 14-15, 2012
+Martin,Stockton,abroncofan@hotmail.com,95519,NH,8 or more,2,1,1,2012-03-30 17:14:48,Sacramento,April 27-29, 2012
+Colin,Malloy,colinmalloy@yahoo.com,30277,NULL,NULL,NULL,NULL,NULL,2012-03-31 04:00:40,Atlanta,May 19-20, 2012
+Burrel,Poston,zelda_kcch@yahoo.com,75013,12,6-7,1,1,1,2012-03-31 17:49:26,Dallas,April 14-15, 2012
+Karen,Brown-Stockton,kdonahue56@hotmail.com,95519,NH,6-7,2,NULL,NULL,2012-03-31 21:23:17,Sacramento,April 27-29, 2012
+Dale,Bryan,Banston55@yahoo.com,76063,14,8 or more,4,1,1,2012-04-01 14:46:21,Dallas,April 14-15, 2012
+Norm,Redlin,norm33@comcast.net,49221,NULL,NULL,NULL,NULL,NULL,2012-04-01 15:36:49,Detroit,May 5-6, 2012
+Karen,Poe,kpoe55@yahoo.com,49221,NULL,6-7,1,1,1,2012-04-01 15:39:39,Detroit,May 5-6, 2012
+Norm,Redlin,norm33@comcast.net,49221,9,8 or more,1,1,1,2012-04-01 15:48:05,Detroit,May 5-6, 2012
+Marta,Calvert,jesinia@swbell.net,76248,32,2-3,2,NULL,NULL,2012-04-02 09:07:03,Dallas,April 14-15, 2012
+Paul,Fragale,paul.fragale@gmail.com,75034,10,4-5,NULL,1,1,2012-04-02 10:26:01,Dallas,April 14-15, 2012
+Glen,Richardson,glen.richardson@att.net,76177,17,8 or more,NULL,NULL,NULL,2012-04-02 10:40:40,Dallas,April 14-15, 2012
+Jay,Coleman,Jay.coleman@utsouthwestern.edu,75206,NULL,8 or more,NULL,NULL,NULL,2012-04-02 13:37:08,Dallas,April 14-15, 2012
+Ty,Hightower,bttykel@gmail.com,76054,NULL,4-5,1,NULL,NULL,2012-04-02 13:37:48,Dallas,April 14-15, 2012
+Gregg,Erwin,gregg3232@att.net,76012,12,4-5,2,1,1,2012-04-02 13:38:29,Dallas,April 14-15, 2012
+David,ScholedDavidS,ScholesScholedDavidSS.david@gmail.com,75229,23,4-5,2,1,1,2012-04-02 13:38:33,Dallas,April 14-15, 2012
+Faron,Young,faronyoung07@hotmail.com,75070,NULL,NULL,4,1,1,2012-04-02 13:40:00,Dallas,April 14-15, 2012
+Jared,Morgan,Jaredmorgan1230@hotmail.com,75069,20,NULL,1,1,1,2012-04-02 13:44:50,Dallas,April 14-15, 2012
+Chris,Nelson,cka.nelson@prodigy.net,75070,5,2-3,NULL,NULL,NULL,2012-04-02 13:46:13,Dallas,April 14-15, 2012
+RONALD,ERNST,RERNST@BMANDG.COM,75023,12,2-3,1,1,1,2012-04-02 13:46:21,Dallas,April 14-15, 2012
+Jerry,Fortenberry,jfortenerry@pmcontractors.net,75063,8.,8 or more,2,1,1,2012-04-02 13:46:45,Dallas,April 14-15, 2012
+Keith,Pults,keith_pults@yahoo.com,75006,20,2-3,NULL,NULL,NULL,2012-04-02 13:49:04,Dallas,April 14-15, 2012
+Ross ,Geideman,rgeideman@verizon.net,76201,7,4-5,NULL,NULL,NULL,2012-04-02 13:49:19,Dallas,April 14-15, 2012
+Scott,Sandlin,sbldrno1-12@yahoo.com,76180,14,4-5,4,NULL,NULL,2012-04-02 13:51:39,Dallas,April 14-15, 2012
+Sammy,Yohannes,Sammyyohannes@yahoo.com,75039,28,4-5,NULL,NULL,NULL,2012-04-02 13:53:10,Dallas,April 14-15, 2012
+Jeff,Holman,jholman1881@yahoo.com,75238,4.,4-5,1,1,1,2012-04-02 13:56:02,Dallas,April 14-15, 2012
+Joe,Duarte,drjoeduarte@yahoo.com,75028,10,2-3,1,NULL,NULL,2012-04-02 13:57:01,Dallas,April 14-15, 2012
+Mark,Roberson,spoon_102961@yahoo.com,75022,6.,4-5,NULL,1,1,2012-04-02 13:58:55,Dallas,April 14-15, 2012
+Daniel ,Edmond ,Danieledmond@msn.com,75054,22,4-5,NULL,1,1,2012-04-02 13:59:37,Dallas,April 14-15, 2012
+Ted,Horn,Ted.horn@ge.com,75019,19,NULL,1,NULL,NULL,2012-04-02 14:02:30,Dallas,April 14-15, 2012
+Richard,Bills,rbills@wilson-company.com,75248,14,6-7,3,1,1,2012-04-02 14:04:34,Dallas,April 14-15, 2012
+Gabriel,Pena,penag33@yahoo.com,75050,19,4-5,NULL,NULL,NULL,2012-04-02 14:11:22,Dallas,April 14-15, 2012
+Ron,Moore,ronmoore2@mac.com,75287,7,6-7,NULL,NULL,NULL,2012-04-02 14:14:43,Dallas,April 14-15, 2012
+chuck,Davis,cjdavis72@sbcglobal.net,75035,17,6-7,NULL,1,1,2012-04-02 14:20:36,Dallas,April 14-15, 2012
+Nathan,Richardson,rich.nate@gmail.com,75007,8.,4-5,1,1,1,2012-04-02 14:27:06,Dallas,April 14-15, 2012
+Gary,Tate,gary.d.tate@lmco.com,76248,17,8 or more,1,1,1,2012-04-02 14:27:41,Dallas,April 14-15, 2012
+James,Stahl,jstahl_msi@yahoo.com,75071,20,4-5,1,1,1,2012-04-02 14:28:59,Dallas,April 14-15, 2012
+Jim,Mammen,jim@m3glass.com,76262,12,6-7,NULL,1,1,2012-04-02 14:29:11,Dallas,April 14-15, 2012
+Hong Ryong,Kim,icu365@hotmail.com,75025,35,2-3,NULL,NULL,NULL,2012-04-02 14:29:46,Dallas,April 14-15, 2012
+Enrique,Mendez,mendez.e30@gmail.com,75071,19,8 or more,1,1,1,2012-04-02 14:29:47,Dallas,April 14-15, 2012
+Al,Lee,startyourengine@gmail.com,75035,20,2-3,1,NULL,NULL,2012-04-02 14:32:43,Dallas,April 14-15, 2012
+Minab,Mulugheta,minab.mulugheta@gmail.com,75001,+2,4-5,NULL,NULL,NULL,2012-04-02 14:33:16,Dallas,April 14-15, 2012
+Renji,Inuzuka,rinuzuka@hotmail.com,76039,9.,2-3,2,NULL,1,2012-04-02 14:33:41,Dallas,April 14-15, 2012
+James,Germany,germany80231@aol.com,75006,14,8 or more,4,1,1,2012-04-02 14:34:34,Dallas,April 14-15, 2012
+tuan,nguyen,tuannnguyen1@aol.com,75094,8,4-5,1,NULL,NULL,2012-04-02 14:38:48,Dallas,April 14-15, 2012
+Tom,Hansen,thans1111@yahoo.com,75229,7.,6-7,2,NULL,1,2012-04-02 14:44:50,Dallas,April 14-15, 2012
+Kelly,O'Bannon,kellyobannon@yahoo.com,76248,12,8 or more,1,1,1,2012-04-02 14:47:52,Dallas,April 14-15, 2012
+Kevin ,Neary,kpneary@gmail.com,75002,1.,8 or more,NULL,1,NULL,2012-04-02 14:51:00,Dallas,April 14-15, 2012
+steve,thitakham,sthitakham@yahoo.com,75002,15,4-5,2,NULL,NULL,2012-04-02 14:53:01,Dallas,April 14-15, 2012
+Munsoo,Cho,chomunsoo@yahoo.com,75022,16,6-7,4,1,1,2012-04-02 14:57:45,Dallas,April 14-15, 2012
+Michael,Herron Jr,onlygrumpy1@hotmail.com,75460,18,6-7,NULL,1,1,2012-04-02 14:58:43,Dallas,April 14-15, 2012
+Sean,Wren,seanwren28@gmail.com,75007,18,2-3,1,NULL,1,2012-04-02 15:02:06,Dallas,April 14-15, 2012
+Eric,Anderson,ericnanderson@att.net,75001,19,NULL,NULL,NULL,NULL,2012-04-02 15:02:32,Dallas,April 14-15, 2012
+Lee,Pruiett,lpruiett@gmail.com,75043,19,6-7,NULL,NULL,1,2012-04-02 15:18:30,Dallas,April 14-15, 2012
+Brian,Bond,bond1794@me.com,75035,12,2-3,NULL,1,1,2012-04-02 15:26:42,Dallas,April 14-15, 2012
+Jeff,Nesrsta,jeffnes1@verizon.net,75006,14,6-7,1,1,1,2012-04-02 15:33:09,Dallas,April 14-15, 2012
+Yosef,Berhe,Yosef.berhe@gmail.com,75063,24,4-5,3,1,1,2012-04-02 15:35:51,Dallas,April 14-15, 2012
+Kidus,Getahun,kgetahun@gmail.com,75039,13,4-5,NULL,NULL,NULL,2012-04-02 15:37:06,Dallas,April 14-15, 2012
+Bob,Hayward,R.hayward@sbcglobal.net,75287,3,6-7,2,1,1,2012-04-02 15:50:41,Dallas,April 14-15, 2012
+robert,segura,tschow51@gmail.com,76033,15,2-3,NULL,1,NULL,2012-04-02 15:54:29,Dallas,April 14-15, 2012
+stephen,hoefer,hoefersfr@gmail.com,75205,9,8 or more,3,1,1,2012-04-02 15:58:38,Dallas,April 14-15, 2012
+Thomas,Manna,leafs93@swbell.net,76248,12,NULL,2,1,1,2012-04-02 16:33:46,Dallas,April 14-15, 2012
+Phil,Scasserra,Pghphiljr@hotmail.com,75027,16,4-5,1,NULL,NULL,2012-04-02 17:14:21,Dallas,April 14-15, 2012
+Don,Frey,dfrey@freyyoung.com,75287,16,6-7,2,1,1,2012-04-02 17:30:48,Dallas,April 14-15, 2012
+Todd,Weese,Todd.weese@sbcglobal.net,75229,20,2-3,NULL,1,NULL,2012-04-02 18:10:24,Dallas,April 14-15, 2012
+Bill,De la Chapelle,Billd2020@gmail.com,75019,24,2-3,1,NULL,NULL,2012-04-02 18:17:48,Dallas,April 14-15, 2012
+Tim,Frederick,tf205@hotmail.com,75287,8.,6-7,1,NULL,1,2012-04-02 18:35:56,Dallas,April 14-15, 2012
+Nancy,Geary,nancygeary@yahoo.com,75075,24,8 or more,2,1,1,2012-04-02 19:52:48,Dallas,April 14-15, 2012
+Greg,Stairs,gstairs@sbcglobal.net,76063,9,4-5,NULL,NULL,NULL,2012-04-02 20:06:02,Dallas,April 14-15, 2012
+travis,gouge,tcgouge@gmail.com,37615,7,8 or more,4,NULL,1,2012-04-02 20:07:31,Atlanta,May 19-20, 2012
+ron,gouge,rdgouge19@yahoo.com,37615,12,8 or more,4,NULL,NULL,2012-04-02 20:09:40,Atlanta,May 19-20, 2012
+Dean,Melton,dmelton1308@hotmail.com,75025,9,8 or more,NULL,1,1,2012-04-02 20:53:19,Dallas,April 14-15, 2012
+Alex,Stadler,stadlers4@verizon.net,75007,NULL,6-7,NULL,NULL,NULL,2012-04-02 21:18:19,Dallas,April 14-15, 2012
+Craig,ritter,craig.ritter@sbcglobal.net,75093,17,8 or more,NULL,1,1,2012-04-02 21:26:03,Dallas,April 14-15, 2012
+dean,holliday,deanbass@sbcglobal.net,75092,1.,8 or more,NULL,NULL,NULL,2012-04-02 21:35:58,Dallas,April 14-15, 2012
+paul,almon,nogolfalmon@yahoo.com,75150,21,4-5,NULL,NULL,1,2012-04-02 21:40:39,Dallas,April 14-15, 2012
+Blake,Hodges,Hodges_Blake@sbcglobal.net,75119,2,6-7,2,NULL,NULL,2012-04-02 21:52:34,Dallas,April 14-15, 2012
+Joe,Lewis,joe_l@ymail.com,75034,16,2-3,1,NULL,1,2012-04-02 22:11:34,Dallas,April 14-15, 2012
+Ray,Melton Jr,rymeltonjr@hotmail.com,75052,18,4-5,1,1,NULL,2012-04-02 22:12:29,Dallas,April 14-15, 2012
+Stan,Pickett,shpickett@msn.com,75149,18,2-3,NULL,1,1,2012-04-02 22:39:56,Dallas,April 14-15, 2012
+Lupe,Hernandez,hernandez2531@gmail.com,75150,NULL,8 or more,NULL,NULL,NULL,2012-04-02 22:57:18,Dallas,April 14-15, 2012
+Marcie,Hernandez,mhernandez@dart.org,75150,NULL,6-7,NULL,NULL,NULL,2012-04-02 22:59:59,Dallas,April 14-15, 2012
+Pete,Haayen,Pete.haayen@gmail.com,75402,11,NULL,2,NULL,1,2012-04-02 23:03:04,Dallas,April 14-15, 2012
+Dane,Knott,dk747us@yahoo.com,75119,12,4-5,2,1,1,2012-04-02 23:24:05,Dallas,April 14-15, 2012
+Mateo,Pruneda,Boomchicapop@aol.com,76201,12,4-5,1,NULL,1,2012-04-02 23:24:27,Dallas,April 14-15, 2012
+Douglas,Young,cleekgeek@gmail.com,76065,7.,6-7,NULL,NULL,NULL,2012-04-02 23:47:42,Dallas,April 14-15, 2012
+J. Doc,Bouchard,dochomes@sbcglobal.net,76126,9,4-5,2,1,1,2012-04-03 06:55:59,Dallas,April 14-15, 2012
+Stephen,Hernandez,S.hernandez15@yahoo.com,75104,NULL,2-3,1,1,1,2012-04-03 08:07:11,Dallas,April 14-15, 2012
+Julian,Moolman,julianmoolman@gmail.com,75080,13,2-3,NULL,1,1,2012-04-03 09:18:53,Dallas,April 14-15, 2012
+Greg,Morgan,gmorgan88@hotmail.com,75206,2,8 or more,2,NULL,NULL,2012-04-03 09:23:29,Dallas,April 14-15, 2012
+Joey,Arreza,joey.arreza@gmail.com,75013,15,4-5,2,1,1,2012-04-03 10:11:18,Dallas,April 14-15, 2012
+Sylvester,Walker,sylvester.walker@sncglobal.net,75104,NULL,8 or more,1,NULL,1,2012-04-03 13:12:33,Dallas,April 14-15, 2012
+Chuck, Barr,thebrickpro@gmail.com,75080,7.,6-7,1,1,1,2012-04-03 13:41:58,Dallas,April 14-15, 2012
+Corey,Myers,mail907@gmail.com,75019,5.,8 or more,NULL,NULL,1,2012-04-03 14:04:08,Dallas,April 14-15, 2012
+Stephanie ,Brieno,lupe_brieno@sbcglobal.net,75106,90,2-3,NULL,1,1,2012-04-03 14:13:11,Dallas,April 14-15, 2012
+Richard,Thomas,ricky_huntguide@yahoo.com,37650,10,8 or more,1,1,1,2012-04-03 14:44:00,Atlanta,May 19-20, 2012
+Jon,Park,Jdpark24@hotmail.com,75019,15,8 or more,1,NULL,1,2012-04-03 17:14:24,Dallas,April 14-15, 2012
+Eric,Williams,emanboogie@Yahoo.com,30016,24,4-5,NULL,1,1,2012-04-03 17:15:32,Atlanta,May 19-20, 2012
+Thomas,Ecker,tre@sbcglobal.net,95959,20,6-7,NULL,NULL,NULL,2012-04-03 17:28:40,Sacramento,April 27-29, 2012
+Eric,Williams,emanboogie62@yahoo.com,30016,27,2-3,NULL,1,1,2012-04-03 19:57:13,Atlanta,May 19-20, 2012
+Michael,Peele,mstie66@hotmail.com,30016,NULL,2-3,NULL,1,1,2012-04-03 19:58:40,Atlanta,May 19-20, 2012
+Cleve ,O'Banion,cobanion59@cayahoo.com,76050,20,2-3,2,NULL,NULL,2012-04-03 20:02:34,Dallas,April 14-15, 2012
+Wesley,O'Banion,cobanion59@cayahoo.com,76050,5,8 or more,2,NULL,NULL,2012-04-03 20:04:08,Dallas,April 14-15, 2012
+Wade ,O'Banion,cobanion59ca@yahoo.com,76050,27,6-7,2,NULL,NULL,2012-04-03 20:05:55,Dallas,April 14-15, 2012
+Dave,Ferons,dferons@verizon.net,75019,15,2-3,2,NULL,NULL,2012-04-03 20:14:26,Dallas,April 14-15, 2012
+Yosef,Berhe,Yosef.berhe@gmail.com,75063,25,4-5,3,1,1,2012-04-03 20:58:54,Dallas,April 14-15, 2012
+Sawyer,Abbott,saredrider@yahoo.com,76050,NULL,8 or more,NULL,NULL,NULL,2012-04-03 21:09:25,Dallas,April 14-15, 2012
+Michael,Franco,mikefranco@yahoo.com,76262,19,2-3,1,NULL,1,2012-04-03 21:19:39,Dallas,April 14-15, 2012
+Torrance,Hannah,Thannah10@yahoo.com,75052,36,4-5,1,1,1,2012-04-04 09:20:08,Dallas,April 14-15, 2012
+Mike ,Harmon,mikenkel528@gmail.com,75070,2,4-5,3,1,1,2012-04-04 09:47:24,Dallas,April 14-15, 2012
+Mark,Levine,m_levine@comcast.net,30189,NULL,4-5,NULL,NULL,NULL,2012-04-04 11:51:13,Atlanta,May 19-20, 2012
+Jeff,Kimbel,jeff_kimbel@hotmail.com,30080,NULL,2-3,1,NULL,NULL,2012-04-04 11:53:05,Atlanta,May 19-20, 2012
+Rhonda,Tisdale,retiz2@yahoo.com,75217,NULL,2-3,NULL,NULL,NULL,2012-04-04 12:41:41,Dallas,April 14-15, 2012
+Tom,Ferguson,thossferguson@gmail.com,76431,13,8 or more,1,1,1,2012-04-04 13:48:53,Dallas,April 14-15, 2012
+Anthony,Mitchell,anthonylongview@aol.com,75287,NULL,NULL,NULL,NULL,NULL,2012-04-04 15:09:13,Dallas,April 14-15, 2012
+Ross,Christy,Rohogolf04@aol.com,76308,2,4-5,NULL,NULL,NULL,2012-04-04 17:06:41,Dallas,April 14-15, 2012
+Orlando,Menor,locoboi808@aol.com,94128,NULL,NULL,NULL,NULL,NULL,2012-04-05 04:43:19,Sacramento,April 27-29, 2012
+Steven,Deanda,Steven.deanda@gmail.com,75002,17,4-5,NULL,1,1,2012-04-05 09:28:54,Dallas,April 14-15, 2012
+eric,Blackwood,golf.texas@hotmail.com,75034,17,8 or more,4,1,1,2012-04-05 17:14:27,Dallas,April 14-15, 2012
+Wyman,Pierce,wpierce@att.net,75287,16,4-5,1,NULL,NULL,2012-04-05 20:06:43,Dallas,April 14-15, 2012
+Taylor,Vickers,vickers.taylor@yahoo.com,75028,7,8 or more,NULL,NULL,NULL,2012-04-06 10:34:55,Dallas,April 14-15, 2012
+Michael,Weber,mgweber@michaelgweber.com,75025,21,2-3,NULL,NULL,NULL,2012-04-06 13:10:28,Dallas,April 14-15, 2012
+James,Lee,tx78645@yahoo.com,75056,NULL,2-3,NULL,1,NULL,2012-04-06 15:36:35,Dallas,April 14-15, 2012
+will,kelly,drummerwillk@gmail.com,95492,NULL,6-7,2,1,1,2012-04-06 15:42:54,Sacramento,April 27-29, 2012
+malcom,Uloth,daveulothjr@hotmail.com,76053,12,8 or more,1,NULL,1,2012-04-06 17:17:01,Dallas,April 14-15, 2012
+Lacey,Uloth,daveulothjr@hotmail.com,76053,15,8 or more,1,NULL,1,2012-04-06 17:17:52,Dallas,April 14-15, 2012
+john,hitt,jhitt56@msn.com,75081,14,8 or more,1,NULL,NULL,2012-04-07 16:11:00,Dallas,April 14-15, 2012
+Chris ,Silva,weso209@sbcglobal.net,95380,8,6-7,NULL,NULL,NULL,2012-04-08 00:15:21,Sacramento,April 27-29, 2012
+Lance,Kim,Lkim8055@gmail.com,90504,19,6-7,4,1,NULL,2012-04-08 06:32:19,Sacramento,April 27-29, 2012
+Jamie,Herman,Jseth77@gmail.com,6854,15,8 or more,3,1,1,2012-04-08 12:11:35,Cromwell,Tuesday, June 19, 2012
+Bill,Bennett,wfb1355@gmail.com,30635,13,6-7,1,NULL,NULL,2012-04-08 16:22:20,Atlanta,May 19-20, 2012
+Corey,Barnett,coreythirtythreex@gmail.com,96039,22,2-3,1,1,1,2012-04-08 16:25:05,Sacramento,April 27-29, 2012
+don,johnson,djesq59@yahoo.com,75249,12,8 or more,1,NULL,NULL,2012-04-08 17:41:10,Dallas,April 14-15, 2012
+Matt,Morgan,mtmorgan73@gmail.com,31904,18,2-3,NULL,NULL,NULL,2012-04-08 18:09:24,Atlanta,May 19-20, 2012
+Gary,Robinson,grobins41@yahoo.com,75093,8,8 or more,2,NULL,NULL,2012-04-08 21:14:15,Dallas,April 14-15, 2012
+Michael,Binkley,michaelbinkley76@yahoo.com,48114,10,8 or more,NULL,1,1,2012-04-09 08:30:59,Detroit,May 5-6, 2012
+Robert,Lawrence,rslawrence77@gmail.com,30068,3,8 or more,2,NULL,NULL,2012-04-09 13:00:44,Atlanta,May 19-20, 2012
+Andy,Wharton,andy_r_wharton@yahoo.com,75166,16,4-5,NULL,NULL,NULL,2012-04-09 13:16:38,Dallas,April 14-15, 2012
+River,Safian,rivervs@sbcglobal.net,75056,NULL,4-5,NULL,1,1,2012-04-09 14:18:26,Dallas,April 14-15, 2012
+Andrew ,Fletcher,apf0801@gmail.com,8060,20,2-3,NULL,NULL,NULL,2012-04-09 15:02:06,Atlanta,May 19-20, 2012
+Kenneth,Kim,khugokim@yahoo.com,94501,22,4-5,2,NULL,NULL,2012-04-09 15:19:50,Sacramento,April 27-29, 2012
+Forrest,McMillan,forrest.mcmillan@gmail.com,75219,10,4-5,4,NULL,NULL,2012-04-09 15:20:38,Dallas,April 14-15, 2012
+Russ,Smith,dallasruss@yahoo.com,75063,13,4-5,3,NULL,1,2012-04-09 15:22:23,Dallas,April 14-15, 2012
+Paul,Mendoza,Duke634@gmail.com,75002,15,8 or more,NULL,NULL,1,2012-04-09 15:25:02,Dallas,April 14-15, 2012
+Kenny,Yates,dee@truitgroup.com,75013,14,2-3,3,1,1,2012-04-09 15:27:22,Dallas,April 14-15, 2012
+Jordyn,Yates,kv.yates@yahoo.com,75013,NULL,2-3,NULL,1,1,2012-04-09 15:28:13,Dallas,April 14-15, 2012
+Austin,Oestreicher,austino21@hotmail.com,75098,14,4-5,1,NULL,NULL,2012-04-09 15:30:12,Dallas,April 14-15, 2012
+Tony,Collier,soctny@yahoo.com,75089,25,8 or more,NULL,NULL,NULL,2012-04-09 15:54:33,Dallas,April 14-15, 2012
+LORRAINE,TOBIN,ken.tobin@stantec.com,1111111,35,8 or more,1,NULL,NULL,2012-04-09 15:57:29,Dallas,April 14-15, 2012
+Gus,vasquez,pitties_1526@yahoo.com,75067,14,4-5,NULL,NULL,1,2012-04-09 16:15:01,Dallas,April 14-15, 2012
+Michael,Denson,michaeldensonphotography@mail.com,75035,NULL,2-3,NULL,1,1,2012-04-09 16:18:35,Dallas,April 14-15, 2012
+Jerry,Fortenberry,jfortenberry@pmcontractors.net,75038,8,8 or more,2,NULL,NULL,2012-04-09 16:24:42,Dallas,April 14-15, 2012
+Greg,Paschall,gp7171@gmail.com,75126,NULL,6-7,3,1,1,2012-04-09 16:32:49,Dallas,April 14-15, 2012
+James,Smith,Mikesmith3213@verizon.net,75007,11,6-7,3,NULL,NULL,2012-04-09 17:10:09,Dallas,April 14-15, 2012
+Steve ,Cummings,scc3@sbcglobal.net,75287,15,8 or more,4,NULL,NULL,2012-04-09 17:46:02,Dallas,April 14-15, 2012
+Dan,Ahn,danielahn@gmail.com,75063,18,6-7,NULL,NULL,NULL,2012-04-09 17:47:27,Dallas,April 14-15, 2012
+Pete,Wilcox,pjwilcox2002@yahoo.com,75040,11,2-3,NULL,1,1,2012-04-09 18:43:29,Dallas,April 14-15, 2012
+Wes,Hornsby,Hornsbygroup@gmail.com,76226,10,2-3,2,NULL,NULL,2012-04-09 19:18:43,Dallas,April 14-15, 2012
+John,Aniceto,janiceto20@gmail.com,76039,24,2-3,1,NULL,NULL,2012-04-09 19:31:36,Dallas,April 14-15, 2012
+John,stack,jakethesnake055@aol.com,11354,18,8 or more,2,1,NULL,2012-04-09 20:20:24,Cromwell,Tuesday, June 19, 2012
+Vinh,Tran,tranvv@gmail.com,75063,15,6-7,NULL,NULL,1,2012-04-09 20:49:10,Dallas,April 14-15, 2012
+Mike,Della Maestra,mikedellamaestra@sbcglobal.net,75001,8,2-3,NULL,1,NULL,2012-04-09 21:30:31,Dallas,April 14-15, 2012
+Andy,Alvarado,ama1973@tx.rr.com,75086,20,NULL,NULL,NULL,NULL,2012-04-09 22:21:06,Dallas,April 14-15, 2012
+Steven,Griffith,Gricfitj01@aol.com,76226,3,4-5,3,1,1,2012-04-09 23:04:01,Dallas,April 14-15, 2012
+Ralph ,Richardson,ggasman@swbell.net,76134,NULL,8 or more,1,NULL,NULL,2012-04-09 23:18:39,Dallas,April 14-15, 2012
+Mike,Henry,mike.henry69@yahoo.com,76262,3,4-5,NULL,1,1,2012-04-09 23:21:24,Dallas,April 14-15, 2012
+Kenneth,Harris,kennethmharris@tx.rr.com,75006,30,2-3,NULL,NULL,NULL,2012-04-10 06:43:22,Dallas,April 14-15, 2012
+corey,fields,cdfields06@aim.com,75043,17,8 or more,1,NULL,NULL,2012-04-10 08:25:31,Dallas,April 14-15, 2012
+PHILLIP,MCGILL,phillip_mcgill@att.net,75216,14,4-5,1,1,NULL,2012-04-10 09:08:11,Dallas,April 14-15, 2012
+PHILLIP,MCGILL,phillip_mcgill@att.net,75216,14,4-5,1,1,NULL,2012-04-10 09:08:12,Dallas,April 14-15, 2012
+Justin,David,Jistinpauldavid@gmail.com,75142,20,6-7,NULL,1,1,2012-04-10 09:18:04,Dallas,April 14-15, 2012
+Dante,Paras,parasdmp53@hotmail.com,76034,16,2-3,NULL,1,1,2012-04-10 09:38:18,Dallas,April 14-15, 2012
+Gary,Daigle,garyd@teladoc.net,75093,14,8 or more,1,NULL,NULL,2012-04-10 10:09:43,Dallas,April 14-15, 2012
+marc,tardif,mtardif@gmail.com,75218,17,4-5,NULL,NULL,NULL,2012-04-10 10:52:56,Dallas,April 14-15, 2012
+David,Mccarty,sleepyhead30286@yahoo.com,30286,10,4-5,NULL,NULL,NULL,2012-04-10 11:21:55,Atlanta,May 19-20, 2012
+matthew,mitchell,truckingmitchells@yahoo.com,76031,26,4-5,NULL,1,1,2012-04-10 13:35:02,Dallas,April 14-15, 2012
+sandy ,mitchell,truckingmitchells@yahoo.com,76031,26,4-5,NULL,NULL,NULL,2012-04-10 13:36:09,Dallas,April 14-15, 2012
+Christian,McCoy,Christianm1171@yahoo.com,76063,15,8 or more,NULL,1,1,2012-04-10 15:29:35,Dallas,April 14-15, 2012
+Tammy,Sullivan,Tsulli912@aol.com,30542,36,6-7,NULL,1,1,2012-04-10 15:45:24,Atlanta,May 19-20, 2012
+Mark,Sullivan,Msulli516@aol.com,30542,36,6-7,NULL,1,1,2012-04-10 15:46:04,Atlanta,May 19-20, 2012
+Robert,Lawhorn,rtla93@hotmail.com,75060,20,2-3,NULL,NULL,NULL,2012-04-10 17:07:59,Dallas,April 14-15, 2012
+Richard,Roberts,r_roberts@comcast.net,37343,NULL,8 or more,2,NULL,1,2012-04-10 17:19:50,Atlanta,May 19-20, 2012
+Philip,Marcucio,carol1@marcucio.com,6418,30,6-7,1,1,1,2012-04-10 18:30:47,Cromwell,Tuesday, June 19, 2012
+Jim,Struck,jstruck11@comcast.net,30066,NULL,8 or more,1,1,1,2012-04-10 18:52:35,Atlanta,May 19-20, 2012
+Vernell,Madkins,Madv102@aol.com,75075,20,4-5,1,NULL,NULL,2012-04-10 20:17:16,Dallas,April 14-15, 2012
+Frank,May,fxmjr01@comcast.net,30047,10,8 or more,2,1,1,2012-04-11 00:02:51,Atlanta,May 19-20, 2012
+Phillip,Houston,phil21jair1@juno.com,75038,NULL,4-5,1,NULL,1,2012-04-11 01:01:17,Dallas,April 14-15, 2012
+Bryan,Jackson,bryanejackson@sbcglobal.net,75244,12,6-7,2,1,1,2012-04-11 08:24:39,Dallas,April 14-15, 2012
+John ,Barnett,tbarnett@karuk.us,96039,30,2-3,NULL,1,NULL,2012-04-11 10:11:10,Sacramento,April 27-29, 2012
+Danny,Vaughn,dannyvaughn@gmail.com,36869,14,6-7,NULL,NULL,1,2012-04-11 11:06:24,Atlanta,May 19-20, 2012
+Jerry,DeRosa,loulou-jer@comcast.net,94945,15,4-5,2,1,1,2012-04-11 17:53:15,Sacramento,April 27-29, 2012
+Sergio,Salinas,parousia@hotmail.com,75088,19,2-3,4,1,1,2012-04-11 18:14:15,Dallas,April 14-15, 2012
+Alan,Partain,alanpartain@gmail.com,30517,36,2-3,NULL,1,1,2012-04-11 19:14:53,Atlanta,May 19-20, 2012
+aaron,beavers,zathb@yahoo.com,48910,10,4-5,NULL,NULL,NULL,2012-04-11 20:42:02,Detroit,May 5-6, 2012
+Phil ,Rowe,rowephi1@msu.edu,48823,25,4-5,1,1,1,2012-04-11 21:11:46,Detroit,May 5-6, 2012
+larry,redmond,katlrr@live.com,76137,5,8 or more,NULL,NULL,NULL,2012-04-12 10:32:36,Dallas,April 14-15, 2012
+Jeffrey,Speights,Jsp8s@aol.com,93312,25,6-7,1,NULL,NULL,2012-04-12 17:45:05,Sacramento,April 27-29, 2012
+Hector,Barroga,Hectorbarroga64@yahoo.com,93301,25,6-7,1,NULL,NULL,2012-04-12 17:47:04,Sacramento,April 27-29, 2012
+Chris,Davidovicz,chris_davidovicz@yahoo.com,31792,14,6-7,2,1,1,2012-04-12 18:17:41,Atlanta,May 19-20, 2012
+Mark,McLeod,Mcleod23103@gmail.com,93301,23,6-7,1,NULL,NULL,2012-04-12 19:52:17,Sacramento,April 27-29, 2012
+Marianne,Waggoner,Mariannewag@sbcglobal.net,75097,13,8 or more,NULL,NULL,NULL,2012-04-13 00:06:15,Dallas,April 14-15, 2012
+steven,young`,robertburns69@yahoo.com,75234,15,2-3,NULL,1,NULL,2012-04-13 14:23:54,Dallas,April 14-15, 2012
+Tommy,Morris,tommy.morris54@verizon.net,75007,8,8 or more,2,1,1,2012-04-13 14:29:52,Dallas,April 14-15, 2012
+Jeffrey,Speights,Jsp8s@aol.com,93312,25,6-7,1,NULL,NULL,2012-04-14 01:32:29,Sacramento,April 27-29, 2012
+Jeffrey,Speights,Jsp8s@aol.com,93312,25,6-7,1,NULL,NULL,2012-04-14 01:54:35,Sacramento,April 27-29, 2012
+Russ,Bertwell,rsbertwell@att.net,75218,25,2-3,NULL,NULL,NULL,2012-04-14 09:00:27,Dallas,April 14-15, 2012
+Marc,Lewin,lewin.marc@gmail.com,75205,17,4-5,NULL,NULL,NULL,2012-04-14 13:51:40,Dallas,April 14-15, 2012
+Jake,Heikkinen,jake@strivefinancial.biz,48843,7,8 or more,2,NULL,1,2012-04-14 19:00:22,Detroit,May 5-6, 2012
+travis,castaneda,castaneda_travis@yahoo.com,79764,NULL,4-5,NULL,NULL,1,2012-04-14 22:08:53,Sacramento,April 27-29, 2012
+Jeremy,Hoeh,hoehjere@msu.edu,48895,15,4-5,2,1,1,2012-04-15 15:31:47,Detroit,May 5-6, 2012
+sandy ,jacques,ewing500@gmail.com,48060,27,4-5,NULL,NULL,NULL,2012-04-15 16:08:17,Detroit,May 5-6, 2012
+Luke,Kaiser,Luke.kaiser@gmail.com,6040,10,2-3,1,NULL,NULL,2012-04-15 16:31:02,Cromwell,Tuesday, June 19, 2012
+Charles,Foster,wes82679@yahoo.com,28277,2,8 or more,1,1,1,2012-04-15 18:31:03,Atlanta,May 19-20, 2012
+June,Conti,Jconti@bestweb.net,12501,2,8 or more,2,NULL,NULL,2012-04-15 21:20:31,Cromwell,Tuesday, June 19, 2012
+Hanna,caepll,hgizmo710@sbcglobal.net,48162,NULL,2-3,NULL,NULL,NULL,2012-04-16 07:27:25,Detroit,May 5-6, 2012
+michael,milligan,mdmilligan@bellsouth.net,30252,8.,4-5,2,NULL,1,2012-04-16 18:38:30,Atlanta,May 19-20, 2012
+Charles,Freund,Cfreund@fleetcor.com,30326,7,6-7,NULL,NULL,NULL,2012-04-17 22:45:34,Atlanta,May 19-20, 2012
+Tom,Jorjorian,tjgolf@email.com,30080,7,8 or more,2,NULL,NULL,2012-04-18 19:49:04,Atlanta,May 19-20, 2012
+marlon,jones,jonnezz@comcast.net,35904,30,8 or more,NULL,1,1,2012-04-18 20:43:12,Atlanta,May 19-20, 2012
+marvin,coley,marvin.coley@yahoo.com,30274,13,8 or more,2,1,1,2012-04-20 08:25:51,Atlanta,May 19-20, 2012
+ANTHONY,SNOW,APROACTOR@COMCAST.NET,95628,7,8 or more,NULL,1,1,2012-04-20 13:53:15,Sacramento,April 27-29, 2012
+Ted,O'Neill,toneill@gofds.com,95758,34,2-3,NULL,1,1,2012-04-20 13:54:49,Sacramento,April 27-29, 2012
+Kyle,Tribble,Tribble03@gmail.com,95608,10,8 or more,4,1,1,2012-04-20 13:56:47,Sacramento,April 27-29, 2012
+craig,mcgovern,craig@benfranklin-crafts.com,95945,18,4-5,4,NULL,NULL,2012-04-20 13:57:14,Sacramento,April 27-29, 2012
+Kevin,Wilner,kevinwilner@gmail.com,95661,11,4-5,2,1,1,2012-04-20 13:57:24,Sacramento,April 27-29, 2012
+Barry,Hand,forebhand@yahoo.com,95376,6,8 or more,1,1,1,2012-04-20 13:57:38,Sacramento,April 27-29, 2012
+stephan,peterson,pros@inreach.com,95201,8,8 or more,1,1,1,2012-04-20 14:02:00,Sacramento,April 27-29, 2012
+Jason,Glaser,stairway2heavun@gmail.com,95746,25,4-5,NULL,NULL,NULL,2012-04-20 14:06:19,Sacramento,April 27-29, 2012
+MAURICE E.,DUENAS II,v6p@comcast.net,95827,10,8 or more,2,1,1,2012-04-20 14:29:01,Sacramento,April 27-29, 2012
+George,Scarborough,joji555@comcast.net,95822,40,2-3,NULL,NULL,NULL,2012-04-20 14:35:05,Sacramento,April 27-29, 2012
+Rishi,Prasad,ris1040@yahoo.com,95835,NULL,8 or more,3,1,1,2012-04-20 14:36:38,Sacramento,April 27-29, 2012
+Bob ,Shannon,Robtshannon@msn.com,95661,18,2-3,2,NULL,NULL,2012-04-20 14:39:31,Sacramento,April 27-29, 2012
+Chris,Boyd,repytpeels@yahoo.com,95621,30,2-3,1,1,1,2012-04-20 14:48:01,Sacramento,April 27-29, 2012
+Jack,DuBe,mingjack@me.com,95628,27,4-5,NULL,NULL,NULL,2012-04-20 15:18:21,Sacramento,April 27-29, 2012
+Harry,Jones,hanli_chang@yahoo.com,95843,30,2-3,NULL,NULL,NULL,2012-04-20 15:19:38,Sacramento,April 27-29, 2012
+Keith,Vogt,kdv37@att.net,96161,19,8 or more,3,NULL,NULL,2012-04-20 15:51:38,Sacramento,April 27-29, 2012
+Chelsea,Iversen,ryanjameshoward@gmail.com,94122,N/,2-3,NULL,NULL,NULL,2012-04-20 16:11:36,Sacramento,April 27-29, 2012
+Blake,Mori,bmori11@hotmail.com,95831,5.,8 or more,1,NULL,NULL,2012-04-20 16:27:54,Sacramento,April 27-29, 2012
+Uati,Suafoa,Usuafoa@msn.com,95655,24,2-3,NULL,NULL,NULL,2012-04-20 16:30:02,Sacramento,April 27-29, 2012
+John,Battisti,jjbattisti@hotmail.com,95630,10,NULL,NULL,NULL,NULL,2012-04-20 16:59:29,Sacramento,April 27-29, 2012
+Roy,Higgs,royhiggs@gmail.com,95747,20,4-5,NULL,1,1,2012-04-20 17:31:58,Sacramento,April 27-29, 2012
+Israel ,Gonzalez,Pumas.fan@hotmail.com,95831,12,4-5,1,1,1,2012-04-20 17:37:58,Sacramento,April 27-29, 2012
+Brian,Herman,brian.herman@hotmail.com,95765,13,6-7,1,NULL,NULL,2012-04-20 18:14:37,Sacramento,April 27-29, 2012
+Tony,Luza,pa.tonyluza@yahoo.com,95628,NULL,8 or more,4,1,1,2012-04-20 19:01:48,Sacramento,April 27-29, 2012
+Steve,Smith,smittyeg@yahoo.com,95762,22,4-5,NULL,NULL,NULL,2012-04-20 19:16:47,Sacramento,April 27-29, 2012
+Philip,Moeszinger,scottmoe@comcast.net,95667,19,6-7,1,NULL,NULL,2012-04-20 19:24:50,Sacramento,April 27-29, 2012
+Joel,Benth,jbenth@hotmail.com,95670,18,6-7,NULL,1,NULL,2012-04-20 19:25:53,Sacramento,April 27-29, 2012
+Robert,Lillywhite,r.lillywhite@comcast.net,95682,NULL,NULL,NULL,NULL,NULL,2012-04-20 19:37:03,Sacramento,April 27-29, 2012
+John,Villa,Pitrovich@gmail.com,93312,21,6-7,1,NULL,NULL,2012-04-20 19:43:29,Sacramento,April 27-29, 2012
+Karen,Jackson-Hays,karen@49ervillage.com,95629,no,4-5,NULL,1,1,2012-04-20 20:00:32,Sacramento,April 27-29, 2012
+Howard,Fleischman,hfphd@hotmail.com,95688,18,4-5,1,1,1,2012-04-20 20:01:37,Sacramento,April 27-29, 2012
+Mike,Skieczius,mikeonly@comcast.net,95304,15,4-5,1,NULL,1,2012-04-20 20:12:37,Sacramento,April 27-29, 2012
+John,Vonhof,john@johnvonhof.com,95337,24,4-5,2,1,1,2012-04-20 23:10:38,Sacramento,April 27-29, 2012
+Jeff,Barnes,no3putt18@hotmail.com,95661,16,6-7,NULL,1,1,2012-04-21 00:35:54,Sacramento,April 27-29, 2012
+SCOTT,THOMPSON,scottandyava@volcano.net,95689,4,8 or more,NULL,NULL,NULL,2012-04-21 05:10:38,Sacramento,April 27-29, 2012
+Len,Bachman,lbachman@frontiernet.net,95624,17,6-7,1,NULL,1,2012-04-21 11:31:59,Sacramento,April 27-29, 2012
+Jeff,Gudahl,jeffgudahl@gmail.com,95829,6,2-3,NULL,1,1,2012-04-21 11:43:58,Sacramento,April 27-29, 2012
+Michael,King,mikesway@comcast.net,95630,15,4-5,NULL,NULL,NULL,2012-04-21 11:45:30,Sacramento,April 27-29, 2012
+Michael,King,mikesway@comcast.net,95630,15,4-5,NULL,NULL,NULL,2012-04-21 11:45:48,Sacramento,April 27-29, 2012
+rj,morrisey,morriseyrj@gmail.com,95678,14,4-5,1,NULL,NULL,2012-04-21 11:50:12,Sacramento,April 27-29, 2012
+jacki,pope,jacki_pope@yahoo.com,95765,25,4-5,NULL,NULL,NULL,2012-04-21 11:50:18,Sacramento,April 27-29, 2012
+Mark,Motell,mark@lepetitchateau.biz,95650,10,4-5,NULL,NULL,NULL,2012-04-21 12:46:56,Sacramento,April 27-29, 2012
+Steven,Kraayenbrink,Sakster@comcast.net,95610,16,4-5,4,1,1,2012-04-21 12:54:53,Sacramento,April 27-29, 2012
+Robin,Rivett,Rrivfamily@aol.com,95628,15,NULL,2,1,1,2012-04-21 18:47:11,Sacramento,April 27-29, 2012
+Rudy,Crisolo,jr,rudycrisolojr@aol.com,95776,12,4-5,1,1,1,2012-04-21 21:20:25,Sacramento,April 27-29, 2012
+JIM,MCDANIEL,JMCDANIEL1789@YAHOO.COM,95688,11,4-5,NULL,NULL,NULL,2012-04-21 21:42:45,Sacramento,April 27-29, 2012
+Hal,Yost,Hallock27@hotmail.com,6480,6,8 or more,NULL,1,1,2012-04-21 21:46:24,Cromwell,Tuesday, June 19, 2012
+Jim,Davenport,Jdavenport07@gmail.com,95632,15,NULL,NULL,NULL,1,2012-04-21 23:31:26,Sacramento,April 27-29, 2012
+chuck,strickland,popaabert@yahoo.com,95610,NULL,8 or more,NULL,1,1,2012-04-22 00:08:05,Sacramento,April 27-29, 2012
+kent,solomon,gtscooterist@yahoo.com,95209,12,4-5,NULL,1,1,2012-04-22 00:28:57,Sacramento,April 27-29, 2012
+Ken,Fleming,starmg@sbcglobal.net,95834,17,4-5,1,1,1,2012-04-22 03:18:51,Sacramento,April 27-29, 2012
+Bob,Morris,deputyugadawg@gmail.com,30132,10,4-5,1,1,1,2012-04-22 17:34:01,Atlanta,May 19-20, 2012
+Tripp,Morris,trippmorris@hotmail.com,30132,15,2-3,NULL,NULL,1,2012-04-22 17:37:16,Atlanta,May 19-20, 2012
+Aaron,Fraze,fraze2248@hotmail.com,37919,5,4-5,NULL,1,1,2012-04-22 18:40:18,Atlanta,May 19-20, 2012
+Markia,Diakiw,diakiw47@yahoo.com,48152,9,6-7,2,NULL,NULL,2012-04-23 00:09:18,Detroit,May 5-6, 2012
+Phillip,Sanchez,Sanchez.phillip@comcast.net,95758,10,2-3,1,NULL,1,2012-04-23 00:51:54,Sacramento,April 27-29, 2012
+tim,waller,wallertj@comcast.net,95687,14,4-5,2,1,NULL,2012-04-23 02:43:27,Sacramento,April 27-29, 2012
+Ed,Guy,edguy@windstream.net,31773,8,8 or more,2,1,1,2012-04-23 17:04:47,Atlanta,May 19-20, 2012
+Vic,Peterson,Vicpete54@gmail.com,30238,12,2-3,1,NULL,NULL,2012-04-23 20:49:01,Atlanta,May 19-20, 2012
+Susan,Upward,seupward@rogers.com,1022,27,2-3,1,1,1,2012-04-23 22:42:06,Cromwell,Tuesday, June 19, 2012
+David,Knoppert,dave.knoppert@lhsc.on.ca,3047,20,4-5,2,1,1,2012-04-24 08:17:08,Detroit,May 5-6, 2012
+John,Khoo,J_khoo@yahoo.com,95816,NULL,4-5,NULL,1,1,2012-04-24 09:35:41,Sacramento,April 27-29, 2012
+Ray,Iaea,Rayiaea@gmail.com,95758,11,2-3,1,NULL,NULL,2012-04-24 09:49:48,Sacramento,April 27-29, 2012
+Patrick,Hughes,pat-hughes@live.com,95626,22,4-5,1,1,1,2012-04-24 10:28:01,Sacramento,April 27-29, 2012
+Roger,Cook,cookjr33@yahoo.com,95695,24,4-5,2,NULL,NULL,2012-04-24 10:28:57,Sacramento,April 27-29, 2012
+Israel,Gonzalez,Pumas.fan@hotmail.coM,95831,12,4-5,1,1,1,2012-04-24 10:39:36,Sacramento,April 27-29, 2012
+lyman,lum,lymanlum@hotmail.com,95831,NULL,8 or more,4,1,1,2012-04-24 10:57:54,Sacramento,April 27-29, 2012
+michael,ross,michael.ross@usfood.com,95949,18,4-5,NULL,NULL,NULL,2012-04-24 10:57:58,Sacramento,April 27-29, 2012
+Chuck,Hays,karen@49ervillage.com,95669,10,8 or more,1,NULL,NULL,2012-04-24 11:00:17,Sacramento,April 27-29, 2012
+Charley,Reed,charley.reed.8@gmail.com,95568,25,2-3,1,NULL,NULL,2012-04-24 11:03:18,Sacramento,April 27-29, 2012
+John,Barnett,jcbarnett69@yahoo.com,96039,28,2-3,NULL,NULL,NULL,2012-04-24 11:03:58,Sacramento,April 27-29, 2012
+RAJESJ,PRASAD,rogboxer@frontiernet.net,95758,14,2-3,1,1,1,2012-04-24 11:24:07,Sacramento,April 27-29, 2012
+RAJESH,PRASAD,rogboxer@frontiernet.net,95758,14,2-3,1,1,1,2012-04-24 11:28:14,Sacramento,April 27-29, 2012
+Jerry ,Stults,j.stults001@comcast.net,95821,12,4-5,1,1,1,2012-04-24 11:38:06,Sacramento,April 27-29, 2012
+Mike,Mclatchy,Mikenbogey@yahoo.com,95640,11,8 or more,4,1,1,2012-04-24 12:30:55,Sacramento,April 27-29, 2012
+Jennifer,Morton,kiwigirlcutie@yahoo.com,95765,NULL,2-3,NULL,NULL,NULL,2012-04-24 12:44:20,Sacramento,April 27-29, 2012
+leslie,finke,lfinke@comcast.net,95864,14,4-5,1,1,1,2012-04-24 13:12:46,Sacramento,April 27-29, 2012
+jim,fuoti,fuoti@sbcglobal.net,95662,10,8 or more,4,NULL,NULL,2012-04-24 14:28:35,Sacramento,April 27-29, 2012
+Jon,Yego,jon@water.ca.gov,95822,26,2-3,2,1,1,2012-04-24 18:43:47,Sacramento,April 27-29, 2012
+Allen,Smith,ajsmith7305@yahoo.com,95388,32,4-5,2,1,NULL,2012-04-24 23:21:37,Sacramento,April 27-29, 2012
+Paul,Stone,paulstone66p@yahoo.com,95388,7,4-5,2,1,NULL,2012-04-24 23:22:49,Sacramento,April 27-29, 2012
+ADAM ,CLEGHORN,SILVERSTATESAFETY@HOTMAIL.COM,89503,8.,8 or more,1,1,1,2012-04-25 02:13:33,Sacramento,April 27-29, 2012
+Vic,Geier,Troy1160@hotmail.com,48442,NULL,4-5,1,NULL,1,2012-04-25 10:58:30,Detroit,May 5-6, 2012
+garyhoward,Howard,garsand@comcast.net,95831,24,4-5,NULL,1,1,2012-04-25 12:00:59,Sacramento,April 27-29, 2012
+nathan,johnson,natedeezil@gmail.com,95621,16,2-3,NULL,NULL,NULL,2012-04-25 20:24:23,Sacramento,April 27-29, 2012
+Alexander,Christodoulou,alex_christodoulou@hotmail.com,52300,28,4-5,1,1,1,2012-04-26 08:45:04,Detroit,May 5-6, 2012
+dan,berger,deberg19@aol.com,43616,20,6-7,NULL,1,1,2012-04-26 19:26:35,Detroit,May 5-6, 2012
+Robert,Brady,rbrady807@yahoo.com,95865,5.,4-5,2,NULL,NULL,2012-04-27 01:11:53,Sacramento,April 27-29, 2012
+Ed,Predki,empredki@te.com,48084,6,8 or more,4,NULL,NULL,2012-04-27 12:45:02,Detroit,May 5-6, 2012
+Jordan,Spangler,jordan-spangler@hotmail.com,48188,12,NULL,3,1,1,2012-04-27 12:50:50,Detroit,May 5-6, 2012
+Jim,Clark,Jmclark47@hotmail.com,48442,8,8 or more,4,1,1,2012-04-27 13:21:07,Detroit,May 5-6, 2012
+Devin,Corn,Devincorn74@gmail.com,48176,21,4-5,1,NULL,NULL,2012-04-27 13:49:55,Detroit,May 5-6, 2012
+Tony,Seloske,tonyseloske@sellersgm.com,48154,NULL,4-5,2,1,1,2012-04-27 15:39:25,Detroit,May 5-6, 2012
+Dennis,Dulay,ddulay@winfirst.com,95608,20,2-3,NULL,1,1,2012-04-27 16:01:43,Sacramento,April 27-29, 2012
+jack,laszewski,jacklaz@msn.com,48327,14,4-5,2,1,NULL,2012-04-27 16:11:53,Detroit,May 5-6, 2012
+norm,kalvoda,rsanorm@aol.com,48085,30,2-3,1,NULL,1,2012-04-27 19:35:53,Detroit,May 5-6, 2012
+Joseph,Carr,jacarr79@msn.com,8086,NULL,8 or more,2,1,NULL,2012-04-27 19:39:51,Atlanta,May 19-20, 2012
+mel                                       ,stern,mcs@corepartners.net,48009,NULL,8 or more,4,1,1,2012-04-27 19:45:51,Detroit,May 5-6, 2012
+william,Carr,wcarr829@aol.com,8073,NULL,8 or more,3,1,NULL,2012-04-27 19:46:32,Atlanta,May 19-20, 2012
+Greg,Chin,gmga_chin@sbcglobal.net,95762,20,4-5,NULL,1,1,2012-04-27 22:31:34,Sacramento,April 27-29, 2012
+Zaf,Khan,sheghas@gmail.com,48083,12,8 or more,NULL,1,1,2012-04-27 22:40:57,Detroit,May 5-6, 2012
+Reginald,Stanford,rstan2709@bellsouth.net,30013,22,NULL,NULL,1,1,2012-04-28 11:44:32,Atlanta,May 19-20, 2012
+septimus,kwong,septimusk@gmail.com,95831,19,4-5,2,1,1,2012-04-28 14:11:00,Sacramento,April 27-29, 2012
+Ken,Lieberman,liebhawk1@hotmail.com,95608,15,8 or more,3,1,1,2012-04-28 14:19:34,Sacramento,April 27-29, 2012
+Jimmy,Marroquin,jimmyam2000@yahoo.com,95355,9.,6-7,2,1,1,2012-04-28 14:32:05,Sacramento,April 27-29, 2012
+Bob,Tozzie,Toz5@yahoo.com,48161,10,4-5,NULL,1,1,2012-04-28 17:05:30,Detroit,May 5-6, 2012
+Jeff,Kulie,jkulie1@twmi.rr.com,48374,6,4-5,2,NULL,1,2012-04-28 23:48:52,Detroit,May 5-6, 2012
+Andrew ,Kellogg,nkellogg@sbcglobal.net,6512,22,2-3,1,NULL,NULL,2012-04-29 08:19:13,Cromwell,Tuesday, June 19, 2012
+WALT,DOUGLAS,Waltd89@aol.com,48302,NULL,8 or more,4,1,1,2012-04-29 12:09:27,Detroit,May 5-6, 2012
+Kyle,Bruton,Kyle.bruton@yahoo.com,30341,12,6-7,3,1,NULL,2012-04-29 16:42:35,Sacramento,April 27-29, 2012
+Kyle,Bruton,Kyle.bruton@yahoo.com,30341,12,6-7,3,1,NULL,2012-04-29 16:43:49,Atlanta,May 19-20, 2012
+Graham,Tucker,Gtucker24@gmail.com,30044,18,2-3,1,NULL,NULL,2012-04-29 16:48:30,Atlanta,May 19-20, 2012
+Zach,Tucker,tucker25@gmail.com,30030,25,2-3,2,NULL,NULL,2012-04-29 16:54:24,Atlanta,May 19-20, 2012
+Brad,Bernard,brad.bernard72@gmail.com,30458,5,2-3,1,1,1,2012-04-30 03:14:38,Atlanta,May 19-20, 2012
+Joe,Bultman,joebult@aol.com,30043,15,6-7,NULL,NULL,NULL,2012-04-30 09:09:17,Atlanta,May 19-20, 2012
+Elson ,Correa,Hildashubby@gmail.com,48180,36,NULL,4,1,1,2012-04-30 18:23:35,Detroit,May 5-6, 2012
+manuel,Ledesma,jayledez@yahoo.com,48346,10,6-7,2,NULL,NULL,2012-04-30 21:15:19,Detroit,May 5-6, 2012
+John,Ish,jjipingeye02@yahoo.com,45840,22,2-3,NULL,1,1,2012-05-01 08:43:55,Detroit,May 5-6, 2012
+DIANE,BENNANE,diane.bennane@gmail.com,48239,25,8 or more,1,1,1,2012-05-02 08:19:13,Detroit,May 5-6, 2012
+MICHAEL,BENNANE,mickben@aol.com,48239,30,6-7,1,1,1,2012-05-02 08:21:59,Atlanta,May 19-20, 2012
+MICHAEL,BENNANE,mickben@aol.com,48239,30,6-7,1,1,1,2012-05-02 08:23:02,Detroit,May 5-6, 2012
+Daniel,DiFilippo,refman57@sbcglobal.net,48730,20,4-5,3,1,1,2012-05-02 10:32:07,Detroit,May 5-6, 2012
+Jesse,Bates,jj.bates@yahoo.com,29801,10,6-7,3,NULL,1,2012-05-02 12:31:26,Detroit,May 5-6, 2012
+Jesse,Bates,jjet.bates@yahoo.com,29801,10,6-7,3,NULL,1,2012-05-02 12:33:00,Atlanta,May 19-20, 2012
+Ryan,Brodecker,brodecker@gmail.com,49253,10,8 or more,NULL,NULL,NULL,2012-05-02 18:06:03,Detroit,May 5-6, 2012
+Jason,Benguche,Guche76@hotmail.com,30080,15,4-5,1,NULL,NULL,2012-05-02 20:54:05,Atlanta,May 19-20, 2012
+Lori,Zeitinger,lan0831@aol.com,30360,45,4-5,NULL,1,1,2012-05-04 10:05:20,Atlanta,May 19-20, 2012
+Scott,Liese,speedmerchant28@yahoo.com,12443,32,NULL,NULL,NULL,1,2012-05-04 22:10:12,Cromwell,Tuesday, June 19, 2012
+Craig,Karagus,ckaragus@yahoo.com,6614,CT,8 or more,1,1,1,2012-05-07 10:03:47,Cromwell,Tuesday, June 19, 2012
+Cris,Hansen,cris.hansen@att.net,30075,22,4-5,NULL,NULL,NULL,2012-05-11 12:26:57,Atlanta,May 19-20, 2012
+Adam,Kirby,A_kirby_98@yahoo.com,30339,10,4-5,2,1,1,2012-05-11 12:28:47,Atlanta,May 19-20, 2012
+Teddy,Brown,thbrown429@gmail.com,30080,12,2-3,3,NULL,NULL,2012-05-11 12:32:37,Atlanta,May 19-20, 2012
+Mario,balanag,mbxray@gmail.com,30076,NULL,2-3,NULL,NULL,1,2012-05-11 12:42:08,Atlanta,May 19-20, 2012
+Wayne,Bruce,wbdinc@tds.net,30143,18,4-5,3,NULL,1,2012-05-11 12:43:19,Atlanta,May 19-20, 2012
+Marshall,Fletcher,Mhfletch@bellsouth.net,30328,18,2-3,2,NULL,1,2012-05-11 12:45:24,Atlanta,May 19-20, 2012
+Thomas,Jones,TDJ1008@aol.com,30022,14,8 or more,3,1,NULL,2012-05-11 13:01:31,Atlanta,May 19-20, 2012
+Brian,Fisher,btheplumber@gmail.com,30104,22,4-5,1,1,1,2012-05-11 13:03:54,Atlanta,May 19-20, 2012
+Ed,Hubbard,cedwardhubbard@gmail.com,30092,No,2-3,NULL,NULL,1,2012-05-11 13:21:17,Atlanta,May 19-20, 2012
+Dan,Mass,danm125@gmail.com,30022,16,4-5,2,NULL,NULL,2012-05-11 13:27:46,Atlanta,May 19-20, 2012
+Mike,Williams,michaelw102@bellsouth.net,30097,NULL,NULL,2,1,1,2012-05-11 13:31:54,Atlanta,May 19-20, 2012
+chuck,tuell,ctuell@bellsouth.net,30004,12,4-5,1,1,1,2012-05-11 13:40:45,Atlanta,May 19-20, 2012
+James,Jernigan,james@tvcrews.com,30305,18,6-7,1,NULL,NULL,2012-05-11 13:43:27,Atlanta,May 19-20, 2012
+Mitch,Wilkes,mitchwilkes@att.net,30342,16,2-3,2,1,1,2012-05-11 13:46:37,Atlanta,May 19-20, 2012
+Kyle,Almond,kylealmond@gmail.com,30307,20,8 or more,1,NULL,NULL,2012-05-11 13:55:54,Atlanta,May 19-20, 2012
+Pete,Cline,peyecilne1970@yahoo.com,30135,10,2-3,NULL,NULL,1,2012-05-11 14:00:18,Atlanta,May 19-20, 2012
+Katherine,Dillinger,kdillinger@gmail.com,30316,20,2-3,NULL,NULL,NULL,2012-05-11 14:01:26,Atlanta,May 19-20, 2012
+Joe,Medico,jmedico@gmail.com,30205,10,8 or more,2,1,1,2012-05-11 14:05:33,Atlanta,May 19-20, 2012
+Eric,Strulowitz,ericthehammer2003@yahoo.com,30114,14,8 or more,2,NULL,NULL,2012-05-11 14:15:42,Atlanta,May 19-20, 2012
+Steve,Beard,sabeard@bellsouth.net,30004,1,8 or more,4,1,1,2012-05-11 14:33:54,Atlanta,May 19-20, 2012
+Tim,Halloran,Timoose@aol.com,30040,16,8 or more,2,1,1,2012-05-11 14:48:19,Atlanta,May 19-20, 2012
+Curtis,Silva,curtislsilva@aol.com,30341,18,8 or more,NULL,NULL,NULL,2012-05-11 14:59:39,Atlanta,May 19-20, 2012
+Lance,Sumner,lancesumner@gmail.com,30012,24,6-7,1,1,NULL,2012-05-11 15:11:06,Atlanta,May 19-20, 2012
+Andy,Farris,andyfarris@att.net,30076,16,4-5,2,1,1,2012-05-11 16:11:45,Atlanta,May 19-20, 2012
+Richard,Allen,rga68@comcast.net,30062,19,4-5,1,1,1,2012-05-11 16:53:06,Atlanta,May 19-20, 2012
+Albert,Lupatin,lupatin@bellsouth.net,30022,10,8 or more,2,1,1,2012-05-11 21:57:44,Atlanta,May 19-20, 2012
+Jackie,Smith,jsmith@newdomuspc.com,30297,9,8 or more,3,1,1,2012-05-11 22:53:12,Atlanta,May 19-20, 2012
+Rusty,Boozer,rboozer@interlochengroup.com,30350,NH,2-3,NULL,NULL,NULL,2012-05-11 22:55:14,Atlanta,May 19-20, 2012
+harold ,fort,hldfort@yahoo.com,30024,15,2-3,4,NULL,1,2012-05-12 00:21:01,Atlanta,May 19-20, 2012
+Pamela,Sammons,pamsammons@comcast.net,30022,NULL,8 or more,NULL,NULL,NULL,2012-05-12 07:18:40,Atlanta,May 19-20, 2012
+David,Heist,David.Heist@Bayer.com,30097,6.,8 or more,3,1,1,2012-05-12 07:20:40,Atlanta,May 19-20, 2012
+Joe,McGill,drjmcgill@gmail.com,30068,19,6-7,1,1,1,2012-05-12 07:52:12,Atlanta,May 19-20, 2012
+Nelson,Pham,nelsonxpham@mac.com,30305,15,6-7,3,1,1,2012-05-12 08:44:25,Atlanta,May 19-20, 2012
+Boyd,Cribb,boydcribb@yahoo.com,30122,l1,4-5,NULL,1,1,2012-05-12 10:32:44,Atlanta,May 19-20, 2012
+James,Heck II,jheckii@bellsouth.net,30127,16,2-3,2,1,1,2012-05-12 12:14:02,Atlanta,May 19-20, 2012
+Julian,Phelps,jmphelp1@bellsouth.net,30062,12,4-5,NULL,NULL,NULL,2012-05-13 11:19:01,Atlanta,May 19-20, 2012
+Steve,Wheeler,Swheeler25@comcast.net,30161,14,4-5,1,NULL,NULL,2012-05-13 11:55:33,Atlanta,May 19-20, 2012
+Jeremy,Mesi,jeremymesi@hotmail.com,30188,9,4-5,3,NULL,NULL,2012-05-13 14:18:00,Atlanta,May 19-20, 2012
+Jack,Ingram,Jtingram11@gmail.com,30068,9.,6-7,4,NULL,NULL,2012-05-13 16:38:10,Atlanta,May 19-20, 2012
+Tremayne,McMurray,trekel1@att.net,30294,18,4-5,2,1,1,2012-05-14 09:12:37,Atlanta,May 19-20, 2012
+Albert,Lupatin,lupatin@bellsouth.net,30022,9,8 or more,2,1,1,2012-05-14 09:45:04,Atlanta,May 19-20, 2012
+Tony,tantillo,tony@apacolorgraphics.com,30327,NULL,6-7,4,1,1,2012-05-14 12:24:05,Atlanta,May 19-20, 2012
+Peggy,Burke,pegburke@comcast.net,30076,27,4-5,2,NULL,NULL,2012-05-14 18:17:00,Atlanta,May 19-20, 2012
+Lindon,Carter,Crlc56@bellsouth.net,30188,20,4-5,NULL,NULL,1,2012-05-14 20:18:36,Atlanta,May 19-20, 2012
+Joe,Gibbons,gibbonsj@bellsouth.net,30062,13,6-7,2,NULL,1,2012-05-14 20:22:43,Atlanta,May 19-20, 2012
+Scott,Dorton,sdorton@ebscoresearch.com,30223,3,4-5,NULL,1,1,2012-05-14 21:16:03,Atlanta,May 19-20, 2012
+David,Cox,davidelliscox@gmail.com,30124,13,8 or more,2,NULL,NULL,2012-05-14 22:20:12,Atlanta,May 19-20, 2012
+Robert,Bedgood,bobbedgood@yahoo.com,30277,??,6-7,1,1,1,2012-05-15 08:30:21,Atlanta,May 19-20, 2012
+Gerran,Coleman,GESC84@COMCAST.NET,30144,??,2-3,2,1,1,2012-05-15 14:23:51,Atlanta,May 19-20, 2012
+Darrell,Saulsberry,dsauls3510@att.net,30066,20,8 or more,4,1,1,2012-05-15 14:30:07,Atlanta,May 19-20, 2012
+Brooks,Sawyer,bsawyer1@uga.edu,30605,22,4-5,NULL,NULL,NULL,2012-05-15 19:39:18,Atlanta,May 19-20, 2012
+Luke,Peavy,mike@gratischurch.com,30656,18,2-3,NULL,1,1,2012-05-15 22:48:23,Atlanta,May 19-20, 2012
+phil,Fisher,bossfish32@Yahoo.com,30104,17,NULL,1,NULL,NULL,2012-05-16 06:53:15,Atlanta,May 19-20, 2012
+Rick,Tran,ptt3z@hotmail.com,30308,25,2-3,NULL,NULL,NULL,2012-05-16 07:27:02,Atlanta,May 19-20, 2012
+Rick ,Nally,nallyrealty@comcast.net,33064,18,2-3,2,NULL,NULL,2012-05-16 07:42:26,Atlanta,May 19-20, 2012
+Nathan,Koller,nkoller@comcast.net,30064,18,2-3,NULL,NULL,NULL,2012-05-16 07:45:54,Atlanta,May 19-20, 2012
+Injune,Pak,Injune@hotmail.com,30324,17,8 or more,NULL,NULL,NULL,2012-05-16 09:50:40,Atlanta,May 19-20, 2012
+Hwajung,Im,Ihj1225@hanmail.net,30324,35,2-3,NULL,NULL,NULL,2012-05-16 09:57:11,Atlanta,May 19-20, 2012
+Inoo,Pak,ipak81@yahoo.com,30324,20,2-3,NULL,NULL,NULL,2012-05-16 09:59:04,Atlanta,May 19-20, 2012
+Alfonso,Arciniegas,alfarch_us@hotmail.com,30092,24,4-5,1,1,NULL,2012-05-16 12:22:19,Atlanta,May 19-20, 2012
+Warren,Doss,warrendoss@hotmail.com,30047,18,8 or more,3,1,1,2012-05-16 12:30:41,Atlanta,May 19-20, 2012
+Dean,Vanderbilt,Dean@gmail.com,30030,12,8 or more,NULL,1,NULL,2012-05-16 12:57:55,Atlanta,May 19-20, 2012
+Lowell,Hanson,r9360@comcast.net,30019,NULL,8 or more,2,1,1,2012-05-16 13:48:38,Atlanta,May 19-20, 2012
+Jason,Soucy,jasonbsoucy@gmail.com,6033,10,2-3,1,1,1,2012-05-16 14:42:52,Cromwell,Tuesday, June 19, 2012
+Brandon,Tandy,bltandy@me.com,30066,11,4-5,2,NULL,NULL,2012-05-16 14:51:38,Atlanta,May 19-20, 2012
+Fred,Seidell,Fred.Seidell@gmail.com,30064,15,4-5,NULL,1,NULL,2012-05-16 16:09:44,Atlanta,May 19-20, 2012
+Nick,Parker,nick23parker@live.com,30180,12,4-5,NULL,1,1,2012-05-16 16:32:12,Atlanta,May 19-20, 2012
+Carlos,Villegas,villegas.ca@gmail.com,30144,NULL,NULL,NULL,NULL,NULL,2012-05-16 17:29:55,Atlanta,May 19-20, 2012
+John,Edwards,JohnEds@aol.com,30518,12,2-3,1,1,1,2012-05-16 18:21:39,Atlanta,May 19-20, 2012
+Eric,Blackmore,eblackmore@bellsouth.net,30033,25,2-3,NULL,NULL,NULL,2012-05-16 22:17:58,Atlanta,May 19-20, 2012
+Calvin,White,playerpuff@hotmail.com,30297,10,8 or more,1,NULL,1,2012-05-17 03:28:20,Atlanta,May 19-20, 2012
+Shawn ,Thornton,ds610@att.net,30075,24,8 or more,1,1,NULL,2012-05-17 06:04:25,Atlanta,May 19-20, 2012
+Anant,Patel,Anantpatel56@gmail.com,30518,16,2-3,2,1,1,2012-05-17 08:32:42,Atlanta,May 19-20, 2012
+CALVIN ,LEBLANC,clvleb@aol.com,30274,NULL,4-5,2,NULL,NULL,2012-05-17 08:48:58,Atlanta,May 19-20, 2012
+Jonathan,Krygsman,jk.baller23@gmail.com,30096,10,6-7,3,NULL,NULL,2012-05-17 10:25:24,Atlanta,May 19-20, 2012
+Barry,Patterson,patt4845@bellsouth.net,30141,17,4-5,1,1,1,2012-05-17 18:52:33,Atlanta,May 19-20, 2012
+John,Clark,johnhclark2007@aol.com,30342,NULL,NULL,NULL,NULL,NULL,2012-05-17 19:14:03,Atlanta,May 19-20, 2012
+Austin ,VanBrackle,vanb68@hotmail.com,30345,6.,8 or more,4,NULL,1,2012-05-17 19:56:22,Atlanta,May 19-20, 2012
+Diane,Lim,meeklim@yahoo.com,30092,9,8 or more,NULL,1,1,2012-05-17 20:52:12,Atlanta,May 19-20, 2012
+Eric,Williams,emanboogie62@yahoo.com,30016,25,4-5,2,1,1,2012-05-17 22:42:18,Atlanta,May 19-20, 2012
+elliott,alexander,elliottalexander@bellsouth.net,30165,15,8 or more,NULL,1,1,2012-05-18 03:40:37,Atlanta,May 19-20, 2012
+Bob,Rogers,rtrogers@bellsouth.net,30189,19,6-7,2,NULL,NULL,2012-05-18 13:42:11,Atlanta,May 19-20, 2012
+John,O'Neal,joneal007@bellsouth.net,30066,15,8 or more,NULL,1,1,2012-05-18 15:40:40,Atlanta,May 19-20, 2012
+James,Whitehead,tj27841m@yahoo.com,30349,12,8 or more,1,1,1,2012-05-18 21:02:23,Atlanta,May 19-20, 2012
+Reginald,Landers,17@Comcast.net,30047,12,8 or more,2,NULL,1,2012-05-18 21:06:01,Atlanta,May 19-20, 2012
+Reginald,Landers,onepep@comcast.net,30047,12,8 or more,2,NULL,1,2012-05-18 21:08:22,Atlanta,May 19-20, 2012
+Cannon ,Byrd,gbyrd9008@gmail.com,30622,20,2-3,NULL,NULL,NULL,2012-05-18 22:30:46,Atlanta,May 19-20, 2012
+Kenny,Song,Ksong02@hotmail.com,30043,12,4-5,4,NULL,NULL,2012-05-18 23:06:09,Atlanta,May 19-20, 2012
+Eun,Chong,Echong311@gmail.com,30043,20,2-3,NULL,NULL,NULL,2012-05-18 23:07:14,Atlanta,May 19-20, 2012
+Demetrius ,Minor,Dminor78@gmail.com,30034,NULL,8 or more,NULL,NULL,NULL,2012-05-19 13:59:49,Atlanta,May 19-20, 2012
+Cameron,Hiner,Cameron_22_24@hotmail.com,46148,7,6-7,2,1,1,2012-05-26 00:05:22,Cromwell,Tuesday, June 19, 2012
+Joshua,Carney,rcracer04@juno.com,6084,7,8 or more,2,NULL,1,2012-05-27 06:44:40,Cromwell,Tuesday, June 19, 2012
+Steve,Hartokolis,shartokolis@filco.net,6820,3,8 or more,1,1,1,2012-06-11 16:50:46,Cromwell,Tuesday, June 19, 2012
+Ed,Meslin,edmeslin2@gmail.com,6067,19,4-5,1,1,1,2012-06-11 16:54:04,Cromwell,Tuesday, June 19, 2012
+Arnold,Burt,aburt@cox.net,6451,15,8 or more,4,1,1,2012-06-11 17:03:07,Cromwell,Tuesday, June 19, 2012
+David,Heiss,Dheiss@weedenco.com,6880,NULL,8 or more,3,NULL,1,2012-06-11 17:12:45,Cromwell,Tuesday, June 19, 2012
+William,Kluba,bkcoeur@aol.com,6109,13,8 or more,NULL,1,1,2012-06-11 17:25:01,Cromwell,Tuesday, June 19, 2012
+Peter,Golanski,pjgolanski@snet.net,6492,10,6-7,1,1,1,2012-06-11 17:27:26,Cromwell,Tuesday, June 19, 2012
+Thomas,Mullaney,thomasmullaney@gmail.com,10803,19,6-7,NULL,NULL,NULL,2012-06-11 17:40:06,Cromwell,Tuesday, June 19, 2012
+Don,Angell,donnygolf@yahoo.com,6001,4,8 or more,2,1,1,2012-06-11 17:47:56,Cromwell,Tuesday, June 19, 2012
+John,Hunter,mtholly@sbcglobal.net,6416,13,NULL,NULL,NULL,NULL,2012-06-11 17:55:46,Cromwell,Tuesday, June 19, 2012
+james,murphy,jimurphy2003@yahoo.com,6878,12,8 or more,3,1,1,2012-06-11 18:05:32,Cromwell,Tuesday, June 19, 2012
+Eric,Leaf,Leaf_eric@yahoo.com,6074,10,2-3,1,1,1,2012-06-11 18:18:25,Cromwell,Tuesday, June 19, 2012
+charles,hornbostel,cchornbostel@yahoo.com,6042,17,8 or more,1,1,1,2012-06-11 19:42:43,Cromwell,Tuesday, June 19, 2012
+Bruce,Till,tillb68@yahoo.com,6032,16,4-5,2,1,1,2012-06-11 19:53:57,Cromwell,Tuesday, June 19, 2012
+Matthew,Morrone,matthewmorrone@snet.net,6712,3,8 or more,4,1,1,2012-06-11 21:24:21,Cromwell,Tuesday, June 19, 2012
+mike,carey,mets84@msn.com,6422,1,8 or more,1,1,1,2012-06-11 21:45:16,Cromwell,Tuesday, June 19, 2012
+Terry,DiMartino,terrydimartino@hotmail.com,6131,7.,6-7,NULL,NULL,NULL,2012-06-11 22:34:17,Cromwell,Tuesday, June 19, 2012
+Kenneth,Hoover,ken.hoover@gmail.com,6457,25,6-7,NULL,NULL,1,2012-06-11 22:45:58,Cromwell,Tuesday, June 19, 2012
+Phillip,Matts,greenkeep@ymail.com,6516,NULL,8 or more,1,1,1,2012-06-12 04:54:33,Cromwell,Tuesday, June 19, 2012
+bruce,fleahman,bfleahman@yahoo.com,6033,18,2-3,NULL,NULL,NULL,2012-06-12 10:45:32,Cromwell,Tuesday, June 19, 2012
+william,mcginn,mcginnb@sbcglobal.net,6479,10,8 or more,3,1,1,2012-06-12 10:46:08,Cromwell,Tuesday, June 19, 2012
+Peter,Fairbrother,fairbrop@newpaltz.edu,12486,NULL,NULL,NULL,NULL,NULL,2012-06-12 11:34:35,Cromwell,Tuesday, June 19, 2012
+Kim,Kelly ,kbokkr@aol.com,6525,7,4-5,1,NULL,NULL,2012-06-12 13:00:00,Cromwell,Tuesday, June 19, 2012
+Tom,Tartaro,tntgolf@att.net,6033,11,8 or more,4,1,1,2012-06-12 14:02:31,Cromwell,Tuesday, June 19, 2012
+j herbert,annear,jhalaa4@comcast.net,6053,9,NULL,1,1,1,2012-06-12 14:54:05,Cromwell,Tuesday, June 19, 2012
+Robert,Walendziak,walendzaik@sbcglobal.net,6382,24,4-5,NULL,1,1,2012-06-12 15:18:49,Cromwell,Tuesday, June 19, 2012
+GARY,HUNT,GHUNT@WHPD.COM,6516,14,6-7,3,1,1,2012-06-12 16:27:17,Cromwell,Tuesday, June 19, 2012
+James,Rabbitt,Jdrabbitt@sbcglobal.net,6231,12,4-5,1,NULL,1,2012-06-12 17:51:11,Cromwell,Tuesday, June 19, 2012
+Bob,Stelben,rpstelben@yahoo.com,6820,14,8 or more,3,1,1,2012-06-12 20:21:06,Cromwell,Tuesday, June 19, 2012
+jerry,cardi,jchi5@sbcglobal.net,6443,20,4-5,NULL,1,1,2012-06-13 12:41:45,Cromwell,Tuesday, June 19, 2012
+Jay,Cottone,jrcottone@cox.net,6109,NULL,6-7,1,1,1,2012-06-13 17:41:17,Cromwell,Tuesday, June 19, 2012
+meemibrieptal,meemibrieptal,australia789ok@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-13 20:32:37,Phoenix,March 24-25, 2012
+Kurt,Bahrs,kbahrs@comcast.net,6480,3,8 or more,2,NULL,1,2012-06-13 22:10:44,Cromwell,Tuesday, June 19, 2012
+iteseeazy,iteseeazy,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-14 04:34:56,Phoenix,March 24-25, 2012
+guervesoorm,guervesoorm,australia789uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-14 05:46:55,Carlsbad,March 10-11, 2012
+guervesoorm,guervesoorm,australia789uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-14 07:03:35,Sacramento,April 27-29, 2012
+cony,caso,casohvac@comcast.net,6424,22,2-3,NULL,1,NULL,2012-06-14 07:39:47,Cromwell,Tuesday, June 19, 2012
+iteseeazy,iteseeazy,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-14 09:49:31,Detroit,May 5-6, 2012
+Nicholas,Morello,nmore1@cox.net,6450,14,4-5,NULL,1,1,2012-06-14 11:48:00,Cromwell,Tuesday, June 19, 2012
+iteseeazy,iteseeazy,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-14 15:58:44,Sacramento,April 27-29, 2012
+Stanley,Geter,Sxgeter12@aol.com,6468,14,4-5,1,1,1,2012-06-14 17:45:55,Cromwell,Tuesday, June 19, 2012
+Larry,Orman,redriverofthenorth@sbcglobal.net,6460,11,4-5,1,NULL,1,2012-06-14 18:00:04,Cromwell,Tuesday, June 19, 2012
+Mike,Wulftange,mikeybaseball128@yahoo.com,6447,10,8 or more,2,1,1,2012-06-14 20:09:31,Cromwell,Tuesday, June 19, 2012
+Bobby,DiNicola,bobbydinicola@me.com,6473,3.,8 or more,3,1,1,2012-06-14 22:12:33,Cromwell,Tuesday, June 19, 2012
+joseph,loban,jkloban@hotmail.com,6492,20,8 or more,2,1,NULL,2012-06-15 07:04:39,Cromwell,Tuesday, June 19, 2012
+iteseeazy,iteseeazy,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-15 07:21:22,Carlsbad,March 10-11, 2012
+Jeff,Culbertson,jculbertson@lhsouthbury.org,6770,?,4-5,1,1,1,2012-06-15 07:52:49,Cromwell,Tuesday, June 19, 2012
+Fiepereutoups,Fiepereutoups,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-16 06:54:23,Carlsbad,March 10-11, 2012
+Fiepereutoups,Fiepereutoups,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-16 07:57:25,Sacramento,April 27-29, 2012
+J,marinan,jmarinan2004@yahoo.com,6455,12,8 or more,NULL,1,1,2012-06-17 00:39:20,Cromwell,Tuesday, June 19, 2012
+Richard,Peck,rapeck@sbcglobal.com,6416,16,6-7,NULL,NULL,NULL,2012-06-17 12:47:35,Cromwell,Tuesday, June 19, 2012
+Fiepereutoups,Fiepereutoups,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-18 20:43:13,Dallas,April 14-15, 2012
+Fiepereutoups,Fiepereutoups,australia135uu@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-19 00:16:45,Phoenix,March 24-25, 2012
+guervesoorm,guervesoorm,nustralia789un@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-22 02:57:08,Carlsbad,March 10-11, 2012
+guervesoorm,guervesoorm,nustralia789un@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-22 04:31:54,Sacramento,April 27-29, 2012
+guervesoorm,guervesoorm,nustralia789un@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-25 03:23:50,Dallas,April 14-15, 2012
+guervesoorm,guervesoorm,nustralia789un@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-06-25 06:44:18,Phoenix,March 24-25, 2012
+Joe,Baumgartner,joebogen@yahoo.com,45102,NULL,6-7,1,1,1,2012-07-05 09:27:35,Atlanta,May 19-20, 2012
+RapSponSkappy,RapSponSkappy,ffftralian967@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-07-18 11:15:34,Phoenix,March 24-25, 2012
+RapSponSkappy,RapSponSkappy,ffftralian967@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-07-18 14:00:41,Detroit,May 5-6, 2012
+RapSponSkappy,RapSponSkappy,ffftralian967@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-07-18 19:52:54,Sacramento,April 27-29, 2012
+RapSponSkappy,RapSponSkappy,ffftralian967@gmail.com,123456,NULL,NULL,NULL,1,NULL,2012-07-19 02:24:20,Carlsbad,March 10-11, 2012

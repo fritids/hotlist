@@ -1,0 +1,36 @@
+<?php
+
+function getMap($loc_name, $link_only = false) {
+    $tmp = explode(',',$loc_name);
+    $loc_name = strtolower($tmp[0]);
+$dallas = '<iframe width="196" height="144" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2538+Golden+Bear+Drive,+Carrollton,+TX&amp;aq=0&amp;oq=2538+Golden+Bear&amp;sll=37.09024,-95.712891&amp;sspn=52.902929,114.169922&amp;ie=UTF8&amp;hq=&amp;hnear=2538+Golden+Bear+Dr,+Carrollton,+Texas+75006&amp;t=h&amp;ll=32.983684,-96.847315&amp;spn=0.010368,0.016737&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2538+Golden+Bear+Drive,+Carrollton,+TX&amp;aq=0&amp;oq=2538+Golden+Bear&amp;sll=37.09024,-95.712891&amp;sspn=52.902929,114.169922&amp;ie=UTF8&amp;hq=&amp;hnear=2538+Golden+Bear+Dr,+Carrollton,+Texas+75006&amp;t=h&amp;ll=32.983684,-96.847315&amp;spn=0.010368,0.016737&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a>';
+
+$carlsbad = '<iframe width="196" height="144" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2711+Haymar+Drive,+Carlsbad,+CA&amp;aq=0&amp;oq=2711+Haymar+Drive+Car&amp;sll=32.983693,-96.847304&amp;sspn=0.006912,0.013937&amp;ie=UTF8&amp;hq=&amp;hnear=2711+Haymar+Dr,+Carlsbad,+California+92010&amp;ll=33.180325,-117.321307&amp;spn=0.005055,0.013937&amp;t=h&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2711+Haymar+Drive,+Carlsbad,+CA&amp;aq=0&amp;oq=2711+Haymar+Drive+Car&amp;sll=32.983693,-96.847304&amp;sspn=0.006912,0.013937&amp;ie=UTF8&amp;hq=&amp;hnear=2711+Haymar+Dr,+Carlsbad,+California+92010&amp;ll=33.180325,-117.321307&amp;spn=0.005055,0.013937&amp;t=h&amp;z=14" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>';
+
+$phoenix = '<iframe width="196" height="144" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=12247+West+Indian+School+Road,+Avondale,+AZ&amp;aq=0&amp;oq=12247+West+Indian+School+Road,+Avon&amp;sll=33.180325,-117.321307&amp;sspn=0.011386,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=12247+W+Indian+School+Rd,+Avondale,+Arizona+85392&amp;t=h&amp;ll=33.491589,-112.322588&amp;spn=0.010308,0.016737&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=12247+West+Indian+School+Road,+Avondale,+AZ&amp;aq=0&amp;oq=12247+West+Indian+School+Road,+Avon&amp;sll=33.180325,-117.321307&amp;sspn=0.011386,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=12247+W+Indian+School+Rd,+Avondale,+Arizona+85392&amp;t=h&amp;ll=33.491589,-112.322588&amp;spn=0.010308,0.016737&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>';
+
+$sacramento = '<iframe width="195" height="144" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=3645+Fulton+Avenue,+Sacramento,+CA&amp;aq=0&amp;oq=3645+Fulton+Avenue,+Sac&amp;sll=33.491581,-112.322572&amp;sspn=0.011345,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=3645+Fulton+Ave,+Sacramento,+California+95821&amp;t=h&amp;ll=38.632561,-121.402702&amp;spn=0.009655,0.016651&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=3645+Fulton+Avenue,+Sacramento,+CA&amp;aq=0&amp;oq=3645+Fulton+Avenue,+Sac&amp;sll=33.491581,-112.322572&amp;sspn=0.011345,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=3645+Fulton+Ave,+Sacramento,+California+95821&amp;t=h&amp;ll=38.632561,-121.402702&amp;spn=0.009655,0.016651&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>';
+
+$detroit = '<iframe width="196" height="144" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=G-5140+Flushing+Rd.,+Flushing+MI&amp;aq=&amp;sll=38.632583,-121.402681&amp;sspn=0.010627,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=5140+Flushing+Rd,+Flushing,+Michigan+48433&amp;t=h&amp;ll=43.040665,-83.778219&amp;spn=0.009033,0.016737&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=G-5140+Flushing+Rd.,+Flushing+MI&amp;aq=&amp;sll=38.632583,-121.402681&amp;sspn=0.010627,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=5140+Flushing+Rd,+Flushing,+Michigan+48433&amp;t=h&amp;ll=43.040665,-83.778219&amp;spn=0.009033,0.016737&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>';
+
+$atlanta = '<iframe width="196" height="144" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=345+Cox+Road,+Roswell,+GA&amp;aq=0&amp;oq=345+Cox+Road,+Ros&amp;sll=43.040649,-83.778241&amp;sspn=0.009943,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=345+Cox+Rd,+Roswell,+Georgia+30075&amp;t=h&amp;ll=34.095387,-84.371824&amp;spn=0.010235,0.016737&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=345+Cox+Road,+Roswell,+GA&amp;aq=0&amp;oq=345+Cox+Road,+Ros&amp;sll=43.040649,-83.778241&amp;sspn=0.009943,0.024719&amp;ie=UTF8&amp;hq=&amp;hnear=345+Cox+Rd,+Roswell,+Georgia+30075&amp;t=h&amp;ll=34.095387,-84.371824&amp;spn=0.010235,0.016737&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>';
+
+$cromwell = '<iframe width="196" height="144" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1+Golf+Club+Rd.,+Cromwell,+CT+06416&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=42.174768,94.746094&amp;ie=UTF8&amp;hq=&amp;hnear=1+Golf+Club+Rd,+Cromwell,+Middlesex,+Connecticut+06416&amp;t=m&amp;ll=41.629622,-72.650871&amp;spn=0.009238,0.016737&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=1+Golf+Club+Rd.,+Cromwell,+CT+06416&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=42.174768,94.746094&amp;ie=UTF8&amp;hq=&amp;hnear=1+Golf+Club+Rd,+Cromwell,+Middlesex,+Connecticut+06416&amp;t=m&amp;ll=41.629622,-72.650871&amp;spn=0.009238,0.016737&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>';
+
+ return _addMapDivs($$loc_name,$link_only);
+}
+
+function _addMapDivs($mapstring,$link_only) {
+    $tmp = str_replace('View Larger Map','',$mapstring);
+    $tmp = explode('<small>', $tmp);
+    if( $link_only == 'link_only') {
+        $rtn = $tmp[1];
+        $rtn = trim($rtn,'</small>');
+      //  $tmp_arr = explode('<a ',$rtn);
+      //  $rtn = $tmp_arr[0];
+    } else {
+        $rtn = '<div id="g_map" >' . $tmp[0] . '</div> <div id="g_dir" >' . $tmp[1] . '</div>';
+    }
+    return $rtn;
+}
+
